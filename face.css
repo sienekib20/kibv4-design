@@ -1,0 +1,221 @@
+/* Onest - Definindo diferentes pesos em uma única família */
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    display: swap;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    display: swap;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    display: swap;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    display: swap;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    display: swap;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    display: swap;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    display: swap;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    display: swap;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('./face/Onest-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    display: swap;
+}
+
+/* Nunito */
+
+@font-face {
+   font-family: 'Nunito';
+/*   src: url('./face/NunitoSans_10pt-Thin.ttf') format('truetype');*/
+   font-weight: 100;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Nunito';
+   src: url('./face/NunitoSans_10pt-ExtraLight.ttf') format('truetype');
+   font-weight: 200;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Nunito';
+   src: url('./face/NunitoSans_10pt-Light.ttf') format('truetype');
+   font-weight: 300;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Nunito';
+   src: url('./face/NunitoSans_10pt-Regular.ttf') format('truetype');
+   font-weight: 400;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Nunito';
+   src: url('./face/NunitoSans_10pt-Medium.ttf') format('truetype');
+   font-weight: 500;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Nunito';
+   src: url('./face/NunitoSans_10pt-SemiBold.ttf') format('truetype');
+   font-weight: 600;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Nunito';
+   src: url('./face/NunitoSans_10pt-Bold.ttf') format('truetype');
+   font-weight: 700;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Nunito';
+   src: url('./face/NunitoSans_10pt-ExtraBold.ttf') format('truetype');
+   font-weight: 800;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Nunito';
+   src: url('./face/NunitoSans_10pt-Black.ttf') format('truetype');
+   font-weight: 900;
+   font-style: normal;
+   display: swap;
+}
+
+
+/* Montserrat */
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-Thin.ttf');
+   font-weight: 100;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-ExtraLight.ttf');
+   font-weight: 200;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-Light.ttf');
+   font-weight: 300;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-Regular.ttf');
+   font-weight: 400;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-Medium.ttf');
+   font-weight: 500;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-SemiBold.ttf');
+   font-weight: 600;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-Bold.ttf');
+   font-weight: 700;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-ExtraBold.ttf');
+   font-weight: 800;
+   font-style: normal;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Montserrat';
+   src: url('./face/Montserrat-Black.ttf');
+   font-weight: 900;
+   font-style: normal;
+   display: swap;
+}

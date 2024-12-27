@@ -1,0 +1,274 @@
+.text-start,
+.text-left {
+   text-align: left !important
+}
+
+.text-end,
+.text-right {
+   text-align: right !important
+}
+
+.text-center {
+   text-align: center !important
+}
+
+.text-justify {
+   text-align: justify !important
+}
+
+.decoration-none {
+   text-decoration: none !important
+}
+
+.underline {
+   text-decoration: underline !important
+}
+
+.line-through {
+   text-decoration: line-through !important
+}
+
+.lowercase {
+   text-transform: lowercase !important
+}
+
+.uppercase {
+   text-transform: uppercase !important
+}
+
+.capitalize {
+   text-transform: capitalize !important
+}
+
+.text-wrap {
+   white-space: normal !important
+}
+
+.text-nowrap {
+   white-space: nowrap !important
+}
+
+.text-break {
+   word-wrap: break-word !important;
+   word-break: break-word !important
+}
+
+
+.text-primary {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-primary-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-secondary {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-secondary-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-success {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-success-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-info {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-info-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-warning {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-warning-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-danger {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-danger-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-light {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-light-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-dark {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-dark-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-black {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-black-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-white {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-white-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-body {
+   --sk-text-opacity: 1;
+   color: rgba(var(--sk-body-color-rgb), var(--sk-text-opacity)) !important
+}
+
+.text-muted {
+   --sk-text-opacity: 1;
+   color: #8c98a4 !important
+}
+
+.text-bg-primary {
+   color: #fff !important;
+   background-color: RGBA(55, 125, 255, var(--sk-bg-opacity, 1)) !important
+}
+
+.text-bg-secondary {
+   color: #fff !important;
+   background-color: RGBA(113, 134, 157, var(--sk-bg-opacity, 1)) !important
+}
+
+.text-bg-success {
+   color: #fff !important;
+   background-color: RGBA(0, 201, 167, var(--sk-bg-opacity, 1)) !important
+}
+
+.text-bg-info {
+   color: #fff !important;
+   background-color: RGBA(9, 165, 190, var(--sk-bg-opacity, 1)) !important
+}
+
+.text-bg-warning {
+   color: #000 !important;
+   background-color: RGBA(245, 202, 153, var(--sk-bg-opacity, 1)) !important
+}
+
+.text-bg-danger {
+   color: #fff !important;
+   background-color: RGBA(237, 76, 120, var(--sk-bg-opacity, 1)) !important
+}
+
+.text-bg-light {
+   color: #000 !important;
+   background-color: RGBA(249, 250, 252, var(--sk-bg-opacity, 1)) !important
+}
+
+.text-bg-dark {
+   color: #fff !important;
+   background-color: RGBA(19, 33, 68, var(--sk-bg-opacity, 1)) !important
+}
+
+.text-black-50 {
+   --sk-text-opacity: 1;
+   color: rgba(0, 0, 0, .5) !important
+}
+
+.text-white-50 {
+   --sk-text-opacity: 1;
+   color: rgba(255, 255, 255, .5) !important
+}
+
+.text-reset {
+   --sk-text-opacity: 1;
+   color: inherit !important
+}
+
+.text-white-70 {
+   --sk-text-opacity: 1;
+   color: rgba(255, 255, 255, .7) !important
+}
+
+.text-opacity-5 {
+   --sk-text-opacity: 0.05 !important;
+}
+
+.text-opacity-10 {
+   --sk-text-opacity: 0.1 !important;
+}
+
+.text-opacity-15 {
+   --sk-text-opacity: 0.15 !important;
+}
+
+.text-opacity-20 {
+   --sk-text-opacity: 0.2 !important;
+}
+
+.text-opacity-25 {
+   --sk-text-opacity: 0.25 !important;
+}
+
+.text-opacity-30 {
+   --sk-text-opacity: 0.3 !important;
+}
+
+.text-opacity-35 {
+   --sk-text-opacity: 0.35 !important;
+}
+
+.text-opacity-40 {
+   --sk-text-opacity: 0.4 !important;
+}
+
+.text-opacity-45 {
+   --sk-text-opacity: 0.45 !important;
+}
+
+.text-opacity-50 {
+   --sk-text-opacity: 0.5 !important;
+}
+
+.text-opacity-55 {
+   --sk-text-opacity: 0.55 !important;
+}
+
+.text-opacity-60 {
+   --sk-text-opacity: 0.60 !important;
+}
+
+.text-opacity-65 {
+   --sk-text-opacity: 0.65 !important;
+}
+
+.text-opacity-70 {
+   --sk-text-opacity: 0.70 !important;
+}
+
+.text-opacity-75 {
+   --sk-text-opacity: 0.75 !important;
+}
+
+.text-opacity-80 {
+   --sk-text-opacity: 0.80 !important;
+}
+
+.text-opacity-85 {
+   --sk-text-opacity: 0.85 !important;
+}
+
+.text-opacity-90 {
+   --sk-text-opacity: 0.90 !important;
+}
+
+.text-opacity-95 {
+   --sk-text-opacity: 0.95 !important;
+}
+
+.text-opacity-100 {
+   --sk-text-opacity: 1 !important;
+}
+
+.text-truncate {
+   overflow: hidden;
+   text-overflow: ellipsis;
+   white-space: nowrap;
+   -webkit-line-clamp: 1;
+   line-clamp: 1;
+   height: 50px;
+   display: -webkit-box;
+   max-height: 50px;
+}
+
+.text-overflow {
+   white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+   height: 50px;
+   max-height: 50px;
+}
