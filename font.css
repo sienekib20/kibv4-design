@@ -13,6 +13,11 @@
    font-weight: 200;
 }
 
+.font-poppins {
+   font-family: 'Poppins' !important;
+   font-weight: 200;
+}
+
 .font-thin {
    font-weight: 100 !important;
 }
@@ -67,6 +72,11 @@
 
    .sm\:font-nunito {
       font-family: 'Nunito' !important;
+      font-weight: 200;
+   }
+   
+   .sm\:font-poppins {
+      font-family: 'Poppins' !important;
       font-weight: 200;
    }
 
@@ -128,6 +138,11 @@
       font-weight: 200;
    }
 
+   .md\:font-poppins {
+      font-family: 'Poppins' !important;
+      font-weight: 200;
+   }
+
    .md\:font-thin {
       font-weight: 100 !important;
    }
@@ -183,6 +198,11 @@
 
    .lg\:font-nunito {
       font-family: 'Nunito' !important;
+      font-weight: 200;
+   }
+
+   .lg\:font-poppins {
+      font-family: 'Poppins' !important;
       font-weight: 200;
    }
 
@@ -244,6 +264,11 @@
       font-weight: 200;
    }
 
+   .xl\:font-poppins {
+      font-family: 'Poppins' !important;
+      font-weight: 200;
+   }
+
    .xl\:font-thin {
       font-weight: 100 !important;
    }
@@ -299,6 +324,11 @@
 
    .\2xl\:font-nunito {
       font-family: 'Nunito' !important;
+      font-weight: 200;
+   }
+
+   .\2xl\:font-poppins {
+      font-family: 'Poppins' !important;
       font-weight: 200;
    }
 

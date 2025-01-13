@@ -1,0 +1,207 @@
+.relative {
+    position: relative !important;
+}
+
+.fixed {
+    position: fixed !important;
+}
+
+.absolute {
+    position: absolute !important;
+}
+
+.static {
+    position: static !important;
+}
+
+.sticky {
+    position: sticky !important;
+    position: -webkit-sticky !important;
+}
+
+.position-unset {
+    position: unset !important;
+}
+
+.position-initial {
+    position: initial !important;
+}
+
+.position-inherit {
+    position: inherit !important;
+}
+
+@media (min-width: 576px) {
+    .sm\:relative {
+        position: relative !important;
+    }
+
+    .sm\:fixed {
+        position: fixed !important;
+    }
+
+    .sm\:absolute {
+        position: absolute !important;
+    }
+
+    .sm\:static {
+        position: static !important;
+    }
+
+    .sm\:sticky {
+        position: sticky !important;
+        position: -webkit-sticky !important;
+    }
+
+    .sm\:position-unset {
+        position: unset !important;
+    }
+
+    .sm\:position-initial {
+        position: initial !important;
+    }
+
+    .sm\:position-inherit {
+        position: inherit !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .md\:relative {
+        position: relative !important;
+    }
+
+    .md\:fixed {
+        position: fixed !important;
+    }
+
+    .md\:absolute {
+        position: absolute !important;
+    }
+
+    .md\:static {
+        position: static !important;
+    }
+
+    .md\:sticky {
+        position: sticky !important;
+        position: -webkit-sticky !important;
+    }
+
+    .md\:position-unset {
+        position: unset !important;
+    }
+
+    .md\:position-initial {
+        position: initial !important;
+    }
+
+    .md\:position-inherit {
+        position: inherit !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .lg\:relative {
+        position: relative !important;
+    }
+
+    .lg\:fixed {
+        position: fixed !important;
+    }
+
+    .lg\:absolute {
+        position: absolute !important;
+    }
+
+    .lg\:static {
+        position: static !important;
+    }
+
+    .lg\:sticky {
+        position: sticky !important;
+        position: -webkit-sticky !important;
+    }
+
+    .lg\:position-unset {
+        position: unset !important;
+    }
+
+    .lg\:position-initial {
+        position: initial !important;
+    }
+
+    .lg\:position-inherit {
+        position: inherit !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .xl\:relative {
+        position: relative !important;
+    }
+
+    .xl\:fixed {
+        position: fixed !important;
+    }
+
+    .xl\:absolute {
+        position: absolute !important;
+    }
+
+    .xl\:static {
+        position: static !important;
+    }
+
+    .xl\:sticky {
+        position: sticky !important;
+        position: -webkit-sticky !important;
+    }
+
+    .xl\:position-unset {
+        position: unset !important;
+    }
+
+    .xl\:position-initial {
+        position: initial !important;
+    }
+
+    .xl\:position-inherit {
+        position: inherit !important;
+    }
+}
+
+@media (min-width: 1400px) {
+    .\2xl\:relative {
+        position: relative !important;
+    }
+
+    .\2xl\:fixed {
+        position: fixed !important;
+    }
+
+    .\2xl\:absolute {
+        position: absolute !important;
+    }
+
+    .\2xl\:static {
+        position: static !important;
+    }
+
+    .\2xl\:sticky {
+        position: sticky !important;
+        position: -webkit-sticky !important;
+    }
+
+    .\2xl\:position-unset {
+        position: unset !important;
+    }
+
+    .\2xl\:position-initial {
+        position: initial !important;
+    }
+
+    .\2xl\:position-inherit {
+        position: inherit !important;
+    }
+}

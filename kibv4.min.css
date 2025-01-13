@@ -4,6 +4,10 @@
 @import "face.css";
 @import "font.css";
 @import "text.css";
+@import "positions.css";
+@import "insets.css";
+@import "grid.css";
+@import "gap.css";
 
 /* -------------------------------------------------------------------------- */
 /*                                 Theme                                      */

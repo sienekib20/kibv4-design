@@ -771,765 +771,765 @@
    .sm\:m-0 {
       margin: 0 !important;
    }
-   
+
    .sm\:m-1 {
       margin: 0.25rem !important;
    }
-   
+
    .sm\:m-2 {
       margin: 0.5rem !important;
    }
-   
+
    .sm\:m-3 {
       margin: 1rem !important;
    }
-   
+
    .sm\:m-4 {
       margin: 1.5rem !important;
    }
-   
+
    .sm\:m-5 {
       margin: 3rem !important;
    }
-   
+
    .sm\:m-6 {
       margin: 4rem !important;
    }
-   
+
    .sm\:m-7 {
       margin: 5rem !important;
    }
-   
+
    .sm\:m-8 {
       margin: 7.5rem !important;
    }
-   
+
    .sm\:m-9 {
       margin: 10rem !important;
    }
-   
+
    .sm\:m-10 {
       margin: 12.5rem !important;
    }
-   
+
    .sm\:m-11 {
       margin: 15rem !important;
    }
-   
+
    .sm\:m-12 {
       margin: 20rem !important;
    }
-   
+
    .sm\:m-auto {
       margin: auto !important;
    }
-   
+
    .sm\:mx-0 {
       margin-right: 0 !important;
       margin-left: 0 !important;
    }
-   
+
    .sm\:mx-1 {
       margin-right: 0.25rem !important;
       margin-left: 0.25rem !important;
    }
-   
+
    .sm\:mx-2 {
       margin-right: 0.5rem !important;
       margin-left: 0.5rem !important;
    }
-   
+
    .sm\:mx-3 {
       margin-right: 1rem !important;
       margin-left: 1rem !important;
    }
-   
+
    .sm\:mx-4 {
       margin-right: 1.5rem !important;
       margin-left: 1.5rem !important;
    }
-   
+
    .sm\:mx-5 {
       margin-right: 3rem !important;
       margin-left: 3rem !important;
    }
-   
+
    .sm\:mx-6 {
       margin-right: 4rem !important;
       margin-left: 4rem !important;
    }
-   
+
    .sm\:mx-7 {
       margin-right: 5rem !important;
       margin-left: 5rem !important;
    }
-   
+
    .sm\:mx-8 {
       margin-right: 7.5rem !important;
       margin-left: 7.5rem !important;
    }
-   
+
    .sm\:mx-9 {
       margin-right: 10rem !important;
       margin-left: 10rem !important;
    }
-   
+
    .sm\:mx-10 {
       margin-right: 12.5rem !important;
       margin-left: 12.5rem !important;
    }
-   
+
    .sm\:mx-11 {
       margin-right: 15rem !important;
       margin-left: 15rem !important;
    }
-   
+
    .sm\:mx-12 {
       margin-right: 20rem !important;
       margin-left: 20rem !important;
    }
-   
+
    .sm\:mx-auto {
       margin-right: auto !important;
       margin-left: auto !important;
    }
-   
+
    .sm\:my-0 {
       margin-top: 0 !important;
       margin-bottom: 0 !important;
    }
-   
+
    .sm\:my-1 {
       margin-top: 0.25rem !important;
       margin-bottom: 0.25rem !important;
    }
-   
+
    .sm\:my-2 {
       margin-top: 0.5rem !important;
       margin-bottom: 0.5rem !important;
    }
-   
+
    .sm\:my-3 {
       margin-top: 1rem !important;
       margin-bottom: 1rem !important;
    }
-   
+
    .sm\:my-4 {
       margin-top: 1.5rem !important;
       margin-bottom: 1.5rem !important;
    }
-   
+
    .sm\:my-5 {
       margin-top: 3rem !important;
       margin-bottom: 3rem !important;
    }
-   
+
    .sm\:my-6 {
       margin-top: 4rem !important;
       margin-bottom: 4rem !important;
    }
-   
+
    .sm\:my-7 {
       margin-top: 5rem !important;
       margin-bottom: 5rem !important;
    }
-   
+
    .sm\:my-8 {
       margin-top: 7.5rem !important;
       margin-bottom: 7.5rem !important;
    }
-   
+
    .sm\:my-9 {
       margin-top: 10rem !important;
       margin-bottom: 10rem !important;
    }
-   
+
    .sm\:my-10 {
       margin-top: 12.5rem !important;
       margin-bottom: 12.5rem !important;
    }
-   
+
    .sm\:my-11 {
       margin-top: 15rem !important;
       margin-bottom: 15rem !important;
    }
-   
+
    .sm\:my-12 {
       margin-top: 20rem !important;
       margin-bottom: 20rem !important;
    }
-   
+
    .sm\:my-auto {
       margin-top: auto !important;
       margin-bottom: auto !important;
    }
-   
+
    .sm\:mt-1 {
       margin-top: 0.25rem !important;
    }
-   
+
    .sm\:mt-2 {
       margin-top: 0.5rem !important;
    }
-   
+
    .sm\:mt-3 {
       margin-top: 1rem !important;
    }
-   
+
    .sm\:mt-4 {
       margin-top: 1.5rem !important;
    }
-   
+
    .sm\:mt-5 {
       margin-top: 3rem !important;
    }
-   
+
    .sm\:mt-6 {
       margin-top: 4rem !important;
    }
-   
+
    .sm\:mt-7 {
       margin-top: 5rem !important;
    }
-   
+
    .sm\:mt-8 {
       margin-top: 7.5rem !important;
    }
-   
+
    .sm\:mt-9 {
       margin-top: 10rem !important;
    }
-   
+
    .sm\:mt-10 {
       margin-top: 12.5rem !important;
    }
-   
+
    .sm\:mt-11 {
       margin-top: 15rem !important;
    }
-   
+
    .sm\:mt-12 {
       margin-top: 20rem !important;
    }
-   
+
    .sm\:mt-auto {
       margin-top: auto !important;
    }
-   
+
    .sm\:mb-1 {
       margin-bottom: 0.25rem !important;
    }
-   
+
    .sm\:mb-2 {
       margin-bottom: 0.5rem !important;
    }
-   
+
    .sm\:mb-3 {
       margin-bottom: 1rem !important;
    }
-   
+
    .sm\:mb-4 {
       margin-bottom: 1.5rem !important;
    }
-   
+
    .sm\:mb-5 {
       margin-bottom: 3rem !important;
    }
-   
+
    .sm\:mb-6 {
       margin-bottom: 4rem !important;
    }
-   
+
    .sm\:mb-7 {
       margin-bottom: 5rem !important;
    }
-   
+
    .sm\:mb-8 {
       margin-bottom: 7.5rem !important;
    }
-   
+
    .sm\:mb-9 {
       margin-bottom: 10rem !important;
    }
-   
+
    .sm\:mb-10 {
       margin-bottom: 12.5rem !important;
    }
-   
+
    .sm\:mb-11 {
       margin-bottom: 15rem !important;
    }
-   
+
    .sm\:mb-12 {
       margin-bottom: 20rem !important;
    }
-   
+
    .sm\:mb-auto {
       margin-bottom: auto !important;
    }
-   
-   
+
+
    .sm\:mr-1 {
       margin-right: 0.25rem !important;
    }
-   
+
    .sm\:mr-2 {
       margin-right: 0.5rem !important;
    }
-   
+
    .sm\:mr-3 {
       margin-right: 1rem !important;
    }
-   
+
    .sm\:mr-4 {
       margin-right: 1.5rem !important;
    }
-   
+
    .sm\:mr-5 {
       margin-right: 3rem !important;
    }
-   
+
    .sm\:mr-6 {
       margin-right: 4rem !important;
    }
-   
+
    .sm\:mr-7 {
       margin-right: 5rem !important;
    }
-   
+
    .sm\:mr-8 {
       margin-right: 7.5rem !important;
    }
-   
+
    .sm\:mr-9 {
       margin-right: 10rem !important;
    }
-   
+
    .sm\:mr-10 {
       margin-right: 12.5rem !important;
    }
-   
+
    .sm\:mr-11 {
       margin-right: 15rem !important;
    }
-   
+
    .sm\:mr-12 {
       margin-right: 20rem !important;
    }
-   
+
    .sm\:mr-auto {
       margin-right: auto !important;
    }
-   
+
    .sm\:ml-1 {
       margin-left: 0.25rem !important;
    }
-   
+
    .sm\:ml-2 {
       margin-left: 0.5rem !important;
    }
-   
+
    .sm\:ml-3 {
       margin-left: 1rem !important;
    }
-   
+
    .sm\:ml-4 {
       margin-left: 1.5rem !important;
    }
-   
+
    .sm\:ml-5 {
       margin-left: 3rem !important;
    }
-   
+
    .sm\:ml-6 {
       margin-left: 4rem !important;
    }
-   
+
    .sm\:ml-7 {
       margin-left: 5rem !important;
    }
-   
+
    .sm\:ml-8 {
       margin-left: 7.5rem !important;
    }
-   
+
    .sm\:ml-9 {
       margin-left: 10rem !important;
    }
-   
+
    .sm\:ml-10 {
       margin-left: 12.5rem !important;
    }
-   
+
    .sm\:ml-11 {
       margin-left: 15rem !important;
    }
-   
+
    .sm\:ml-12 {
       margin-left: 20rem !important;
    }
-   
+
    .sm\:ml-auto {
       margin-left: auto !important;
    }
-   
-   
+
+
    .sm\:-m-1 {
       margin: -0.25rem !important;
    }
-   
+
    .sm\:-m-2 {
       margin: -0.5rem !important;
    }
-   
+
    .sm\:-m-3 {
       margin: -1rem !important;
    }
-   
+
    .sm\:-m-4 {
       margin: -1.5rem !important;
    }
-   
+
    .sm\:-m-5 {
       margin: -3rem !important;
    }
-   
+
    .sm\:-m-6 {
       margin: -4rem !important;
    }
-   
+
    .sm\:-m-7 {
       margin: -5rem !important;
    }
-   
+
    .sm\:-m-8 {
       margin: -7.5rem !important;
    }
-   
+
    .sm\:-m-9 {
       margin: -10rem !important;
    }
-   
+
    .sm\:-m-10 {
       margin: -12.5rem !important;
    }
-   
+
    .sm\:-m-11 {
       margin: -15rem !important;
    }
-   
+
    .sm\:-m-12 {
       margin: -20rem !important;
    }
-   
+
    .sm\:-mx-1 {
       margin-right: -0.25rem !important;
       margin-left: -0.25rem !important;
    }
-   
+
    .sm\:-mx-2 {
       margin-right: -0.5rem !important;
       margin-left: -0.5rem !important;
    }
-   
+
    .sm\:-mx-3 {
       margin-right: -1rem !important;
       margin-left: -1rem !important;
    }
-   
+
    .sm\:-mx-4 {
       margin-right: -1.5rem !important;
       margin-left: -1.5rem !important;
    }
-   
+
    .sm\:-mx-5 {
       margin-right: -3rem !important;
       margin-left: -3rem !important;
    }
-   
+
    .sm\:-mx-6 {
       margin-right: -4rem !important;
       margin-left: -4rem !important;
    }
-   
+
    .sm\:-mx-7 {
       margin-right: -5rem !important;
       margin-left: -5rem !important;
    }
-   
+
    .sm\:-mx-8 {
       margin-right: -7.5rem !important;
       margin-left: -7.5rem !important;
    }
-   
+
    .sm\:-mx-9 {
       margin-right: -10rem !important;
       margin-left: -10rem !important;
    }
-   
+
    .sm\:-mx-10 {
       margin-right: -12.5rem !important;
       margin-left: -12.5rem !important;
    }
-   
+
    .sm\:-mx-11 {
       margin-right: -15rem !important;
       margin-left: -15rem !important;
    }
-   
+
    .sm\:-mx-12 {
       margin-right: -20rem !important;
       margin-left: -20rem !important;
    }
-   
+
    .sm\:-my-1 {
       margin-top: -0.25rem !important;
       margin-bottom: -0.25rem !important;
    }
-   
+
    .sm\:-my-2 {
       margin-top: -0.5rem !important;
       margin-bottom: -0.5rem !important;
    }
-   
+
    .sm\:-my-3 {
       margin-top: -1rem !important;
       margin-bottom: -1rem !important;
    }
-   
+
    .sm\:-my-4 {
       margin-top: -1.5rem !important;
       margin-bottom: -1.5rem !important;
    }
-   
+
    .sm\:-my-5 {
       margin-top: -3rem !important;
       margin-bottom: -3rem !important;
    }
-   
+
    .sm\:-my-6 {
       margin-top: -4rem !important;
       margin-bottom: -4rem !important;
    }
-   
+
    .sm\:-my-7 {
       margin-top: -5rem !important;
       margin-bottom: -5rem !important;
    }
-   
+
    .sm\:-my-8 {
       margin-top: -7.5rem !important;
       margin-bottom: -7.5rem !important;
    }
-   
+
    .sm\:-my-9 {
       margin-top: -10rem !important;
       margin-bottom: -10rem !important;
    }
-   
+
    .sm\:-my-10 {
       margin-top: -12.5rem !important;
       margin-bottom: -12.5rem !important;
    }
-   
+
    .sm\:-my-11 {
       margin-top: -15rem !important;
       margin-bottom: -15rem !important;
    }
-   
+
    .sm\:-my-12 {
       margin-top: -20rem !important;
       margin-bottom: -20rem !important;
    }
-   
+
    .sm\:-mt-1 {
       margin-top: -0.25rem !important;
    }
-   
+
    .sm\:-mt-2 {
       margin-top: -0.5rem !important;
    }
-   
+
    .sm\:-mt-3 {
       margin-top: -1rem !important;
    }
-   
+
    .sm\:-mt-4 {
       margin-top: -1.5rem !important;
    }
-   
+
    .sm\:-mt-5 {
       margin-top: -3rem !important;
    }
-   
+
    .sm\:-mt-6 {
       margin-top: -4rem !important;
    }
-   
+
    .sm\:-mt-7 {
       margin-top: -5rem !important;
    }
-   
+
    .sm\:-mt-8 {
       margin-top: -7.5rem !important;
    }
-   
+
    .sm\:-mt-9 {
       margin-top: -10rem !important;
    }
-   
+
    .sm\:-mt-10 {
       margin-top: -12.5rem !important;
    }
-   
+
    .sm\:-mt-11 {
       margin-top: -15rem !important;
    }
-   
+
    .sm\:-mt-12 {
       margin-top: -20rem !important;
    }
-   
+
    .sm\:-mb-1 {
       margin-bottom: -0.25rem !important;
    }
-   
+
    .sm\:-mb-2 {
       margin-bottom: -0.5rem !important;
    }
-   
+
    .sm\:-mb-3 {
       margin-bottom: -1rem !important;
    }
-   
+
    .sm\:-mb-4 {
       margin-bottom: -1.5rem !important;
    }
-   
+
    .sm\:-mb-5 {
       margin-bottom: -3rem !important;
    }
-   
+
    .sm\:-mb-6 {
       margin-bottom: -4rem !important;
    }
-   
+
    .sm\:-mb-7 {
       margin-bottom: -5rem !important;
    }
-   
+
    .sm\:-mb-8 {
       margin-bottom: -7.5rem !important;
    }
-   
+
    .sm\:-mb-9 {
       margin-bottom: -10rem !important;
    }
-   
+
    .sm\:-mb-10 {
       margin-bottom: -12.5rem !important;
    }
-   
+
    .sm\:-mb-11 {
       margin-bottom: -15rem !important;
    }
-   
+
    .sm\:-mb-12 {
       margin-bottom: -20rem !important;
    }
-   
+
    .sm\:-mr-1 {
       margin-right: -0.25rem !important;
    }
-   
+
    .sm\:-mr-2 {
       margin-right: -0.5rem !important;
    }
-   
+
    .sm\:-mr-3 {
       margin-right: -1rem !important;
    }
-   
+
    .sm\:-mr-4 {
       margin-right: -1.5rem !important;
    }
-   
+
    .sm\:-mr-5 {
       margin-right: -3rem !important;
    }
-   
+
    .sm\:-mr-6 {
       margin-right: -4rem !important;
    }
-   
+
    .sm\:-mr-7 {
       margin-right: -5rem !important;
    }
-   
+
    .sm\:-mr-8 {
       margin-right: -7.5rem !important;
    }
-   
+
    .sm\:-mr-9 {
       margin-right: -10rem !important;
    }
-   
+
    .sm\:-mr-10 {
       margin-right: -12.5rem !important;
    }
-   
+
    .sm\:-mr-11 {
       margin-right: -15rem !important;
    }
-   
+
    .sm\:-mr-12 {
       margin-right: -20rem !important;
    }
-   
+
    .sm\:-ml-1 {
       margin-left: -0.25rem !important;
    }
-   
+
    .sm\:-ml-2 {
       margin-left: -0.5rem !important;
    }
-   
+
    .sm\:-ml-3 {
       margin-left: -1rem !important;
    }
-   
+
    .sm\:-ml-4 {
       margin-left: -1.5rem !important;
    }
-   
+
    .sm\:-ml-5 {
       margin-left: -3rem !important;
    }
-   
+
    .sm\:-ml-6 {
       margin-left: -4rem !important;
    }
-   
+
    .sm\:-ml-7 {
       margin-left: -5rem !important;
    }
-   
+
    .sm\:-ml-8 {
       margin-left: -7.5rem !important;
    }
-   
+
    .sm\:-ml-9 {
       margin-left: -10rem !important;
    }
-   
+
    .sm\:-ml-10 {
       margin-left: -12.5rem !important;
    }
-   
+
    .sm\:-ml-11 {
       margin-left: -15rem !important;
    }
-   
+
    .sm\:-ml-12 {
       margin-left: -20rem !important;
    }
@@ -1539,765 +1539,765 @@
    .md\:m-0 {
       margin: 0 !important;
    }
-   
+
    .md\:m-1 {
       margin: 0.25rem !important;
    }
-   
+
    .md\:m-2 {
       margin: 0.5rem !important;
    }
-   
+
    .md\:m-3 {
       margin: 1rem !important;
    }
-   
+
    .md\:m-4 {
       margin: 1.5rem !important;
    }
-   
+
    .md\:m-5 {
       margin: 3rem !important;
    }
-   
+
    .md\:m-6 {
       margin: 4rem !important;
    }
-   
+
    .md\:m-7 {
       margin: 5rem !important;
    }
-   
+
    .md\:m-8 {
       margin: 7.5rem !important;
    }
-   
+
    .md\:m-9 {
       margin: 10rem !important;
    }
-   
+
    .md\:m-10 {
       margin: 12.5rem !important;
    }
-   
+
    .md\:m-11 {
       margin: 15rem !important;
    }
-   
+
    .md\:m-12 {
       margin: 20rem !important;
    }
-   
+
    .md\:m-auto {
       margin: auto !important;
    }
-   
+
    .md\:mx-0 {
       margin-right: 0 !important;
       margin-left: 0 !important;
    }
-   
+
    .md\:mx-1 {
       margin-right: 0.25rem !important;
       margin-left: 0.25rem !important;
    }
-   
+
    .md\:mx-2 {
       margin-right: 0.5rem !important;
       margin-left: 0.5rem !important;
    }
-   
+
    .md\:mx-3 {
       margin-right: 1rem !important;
       margin-left: 1rem !important;
    }
-   
+
    .md\:mx-4 {
       margin-right: 1.5rem !important;
       margin-left: 1.5rem !important;
    }
-   
+
    .md\:mx-5 {
       margin-right: 3rem !important;
       margin-left: 3rem !important;
    }
-   
+
    .md\:mx-6 {
       margin-right: 4rem !important;
       margin-left: 4rem !important;
    }
-   
+
    .md\:mx-7 {
       margin-right: 5rem !important;
       margin-left: 5rem !important;
    }
-   
+
    .md\:mx-8 {
       margin-right: 7.5rem !important;
       margin-left: 7.5rem !important;
    }
-   
+
    .md\:mx-9 {
       margin-right: 10rem !important;
       margin-left: 10rem !important;
    }
-   
+
    .md\:mx-10 {
       margin-right: 12.5rem !important;
       margin-left: 12.5rem !important;
    }
-   
+
    .md\:mx-11 {
       margin-right: 15rem !important;
       margin-left: 15rem !important;
    }
-   
+
    .md\:mx-12 {
       margin-right: 20rem !important;
       margin-left: 20rem !important;
    }
-   
+
    .md\:mx-auto {
       margin-right: auto !important;
       margin-left: auto !important;
    }
-   
+
    .md\:my-0 {
       margin-top: 0 !important;
       margin-bottom: 0 !important;
    }
-   
+
    .md\:my-1 {
       margin-top: 0.25rem !important;
       margin-bottom: 0.25rem !important;
    }
-   
+
    .md\:my-2 {
       margin-top: 0.5rem !important;
       margin-bottom: 0.5rem !important;
    }
-   
+
    .md\:my-3 {
       margin-top: 1rem !important;
       margin-bottom: 1rem !important;
    }
-   
+
    .md\:my-4 {
       margin-top: 1.5rem !important;
       margin-bottom: 1.5rem !important;
    }
-   
+
    .md\:my-5 {
       margin-top: 3rem !important;
       margin-bottom: 3rem !important;
    }
-   
+
    .md\:my-6 {
       margin-top: 4rem !important;
       margin-bottom: 4rem !important;
    }
-   
+
    .md\:my-7 {
       margin-top: 5rem !important;
       margin-bottom: 5rem !important;
    }
-   
+
    .md\:my-8 {
       margin-top: 7.5rem !important;
       margin-bottom: 7.5rem !important;
    }
-   
+
    .md\:my-9 {
       margin-top: 10rem !important;
       margin-bottom: 10rem !important;
    }
-   
+
    .md\:my-10 {
       margin-top: 12.5rem !important;
       margin-bottom: 12.5rem !important;
    }
-   
+
    .md\:my-11 {
       margin-top: 15rem !important;
       margin-bottom: 15rem !important;
    }
-   
+
    .md\:my-12 {
       margin-top: 20rem !important;
       margin-bottom: 20rem !important;
    }
-   
+
    .md\:my-auto {
       margin-top: auto !important;
       margin-bottom: auto !important;
    }
-   
+
    .md\:mt-1 {
       margin-top: 0.25rem !important;
    }
-   
+
    .md\:mt-2 {
       margin-top: 0.5rem !important;
    }
-   
+
    .md\:mt-3 {
       margin-top: 1rem !important;
    }
-   
+
    .md\:mt-4 {
       margin-top: 1.5rem !important;
    }
-   
+
    .md\:mt-5 {
       margin-top: 3rem !important;
    }
-   
+
    .md\:mt-6 {
       margin-top: 4rem !important;
    }
-   
+
    .md\:mt-7 {
       margin-top: 5rem !important;
    }
-   
+
    .md\:mt-8 {
       margin-top: 7.5rem !important;
    }
-   
+
    .md\:mt-9 {
       margin-top: 10rem !important;
    }
-   
+
    .md\:mt-10 {
       margin-top: 12.5rem !important;
    }
-   
+
    .md\:mt-11 {
       margin-top: 15rem !important;
    }
-   
+
    .md\:mt-12 {
       margin-top: 20rem !important;
    }
-   
+
    .md\:mt-auto {
       margin-top: auto !important;
    }
-   
+
    .md\:mb-1 {
       margin-bottom: 0.25rem !important;
    }
-   
+
    .md\:mb-2 {
       margin-bottom: 0.5rem !important;
    }
-   
+
    .md\:mb-3 {
       margin-bottom: 1rem !important;
    }
-   
+
    .md\:mb-4 {
       margin-bottom: 1.5rem !important;
    }
-   
+
    .md\:mb-5 {
       margin-bottom: 3rem !important;
    }
-   
+
    .md\:mb-6 {
       margin-bottom: 4rem !important;
    }
-   
+
    .md\:mb-7 {
       margin-bottom: 5rem !important;
    }
-   
+
    .md\:mb-8 {
       margin-bottom: 7.5rem !important;
    }
-   
+
    .md\:mb-9 {
       margin-bottom: 10rem !important;
    }
-   
+
    .md\:mb-10 {
       margin-bottom: 12.5rem !important;
    }
-   
+
    .md\:mb-11 {
       margin-bottom: 15rem !important;
    }
-   
+
    .md\:mb-12 {
       margin-bottom: 20rem !important;
    }
-   
+
    .md\:mb-auto {
       margin-bottom: auto !important;
    }
-   
-   
+
+
    .md\:mr-1 {
       margin-right: 0.25rem !important;
    }
-   
+
    .md\:mr-2 {
       margin-right: 0.5rem !important;
    }
-   
+
    .md\:mr-3 {
       margin-right: 1rem !important;
    }
-   
+
    .md\:mr-4 {
       margin-right: 1.5rem !important;
    }
-   
+
    .md\:mr-5 {
       margin-right: 3rem !important;
    }
-   
+
    .md\:mr-6 {
       margin-right: 4rem !important;
    }
-   
+
    .md\:mr-7 {
       margin-right: 5rem !important;
    }
-   
+
    .md\:mr-8 {
       margin-right: 7.5rem !important;
    }
-   
+
    .md\:mr-9 {
       margin-right: 10rem !important;
    }
-   
+
    .md\:mr-10 {
       margin-right: 12.5rem !important;
    }
-   
+
    .md\:mr-11 {
       margin-right: 15rem !important;
    }
-   
+
    .md\:mr-12 {
       margin-right: 20rem !important;
    }
-   
+
    .md\:mr-auto {
       margin-right: auto !important;
    }
-   
+
    .md\:ml-1 {
       margin-left: 0.25rem !important;
    }
-   
+
    .md\:ml-2 {
       margin-left: 0.5rem !important;
    }
-   
+
    .md\:ml-3 {
       margin-left: 1rem !important;
    }
-   
+
    .md\:ml-4 {
       margin-left: 1.5rem !important;
    }
-   
+
    .md\:ml-5 {
       margin-left: 3rem !important;
    }
-   
+
    .md\:ml-6 {
       margin-left: 4rem !important;
    }
-   
+
    .md\:ml-7 {
       margin-left: 5rem !important;
    }
-   
+
    .md\:ml-8 {
       margin-left: 7.5rem !important;
    }
-   
+
    .md\:ml-9 {
       margin-left: 10rem !important;
    }
-   
+
    .md\:ml-10 {
       margin-left: 12.5rem !important;
    }
-   
+
    .md\:ml-11 {
       margin-left: 15rem !important;
    }
-   
+
    .md\:ml-12 {
       margin-left: 20rem !important;
    }
-   
+
    .md\:ml-auto {
       margin-left: auto !important;
    }
-   
-   
+
+
    .md\:-m-1 {
       margin: -0.25rem !important;
    }
-   
+
    .md\:-m-2 {
       margin: -0.5rem !important;
    }
-   
+
    .md\:-m-3 {
       margin: -1rem !important;
    }
-   
+
    .md\:-m-4 {
       margin: -1.5rem !important;
    }
-   
+
    .md\:-m-5 {
       margin: -3rem !important;
    }
-   
+
    .md\:-m-6 {
       margin: -4rem !important;
    }
-   
+
    .md\:-m-7 {
       margin: -5rem !important;
    }
-   
+
    .md\:-m-8 {
       margin: -7.5rem !important;
    }
-   
+
    .md\:-m-9 {
       margin: -10rem !important;
    }
-   
+
    .md\:-m-10 {
       margin: -12.5rem !important;
    }
-   
+
    .md\:-m-11 {
       margin: -15rem !important;
    }
-   
+
    .md\:-m-12 {
       margin: -20rem !important;
    }
-   
+
    .md\:-mx-1 {
       margin-right: -0.25rem !important;
       margin-left: -0.25rem !important;
    }
-   
+
    .md\:-mx-2 {
       margin-right: -0.5rem !important;
       margin-left: -0.5rem !important;
    }
-   
+
    .md\:-mx-3 {
       margin-right: -1rem !important;
       margin-left: -1rem !important;
    }
-   
+
    .md\:-mx-4 {
       margin-right: -1.5rem !important;
       margin-left: -1.5rem !important;
    }
-   
+
    .md\:-mx-5 {
       margin-right: -3rem !important;
       margin-left: -3rem !important;
    }
-   
+
    .md\:-mx-6 {
       margin-right: -4rem !important;
       margin-left: -4rem !important;
    }
-   
+
    .md\:-mx-7 {
       margin-right: -5rem !important;
       margin-left: -5rem !important;
    }
-   
+
    .md\:-mx-8 {
       margin-right: -7.5rem !important;
       margin-left: -7.5rem !important;
    }
-   
+
    .md\:-mx-9 {
       margin-right: -10rem !important;
       margin-left: -10rem !important;
    }
-   
+
    .md\:-mx-10 {
       margin-right: -12.5rem !important;
       margin-left: -12.5rem !important;
    }
-   
+
    .md\:-mx-11 {
       margin-right: -15rem !important;
       margin-left: -15rem !important;
    }
-   
+
    .md\:-mx-12 {
       margin-right: -20rem !important;
       margin-left: -20rem !important;
    }
-   
+
    .md\:-my-1 {
       margin-top: -0.25rem !important;
       margin-bottom: -0.25rem !important;
    }
-   
+
    .md\:-my-2 {
       margin-top: -0.5rem !important;
       margin-bottom: -0.5rem !important;
    }
-   
+
    .md\:-my-3 {
       margin-top: -1rem !important;
       margin-bottom: -1rem !important;
    }
-   
+
    .md\:-my-4 {
       margin-top: -1.5rem !important;
       margin-bottom: -1.5rem !important;
    }
-   
+
    .md\:-my-5 {
       margin-top: -3rem !important;
       margin-bottom: -3rem !important;
    }
-   
+
    .md\:-my-6 {
       margin-top: -4rem !important;
       margin-bottom: -4rem !important;
    }
-   
+
    .md\:-my-7 {
       margin-top: -5rem !important;
       margin-bottom: -5rem !important;
    }
-   
+
    .md\:-my-8 {
       margin-top: -7.5rem !important;
       margin-bottom: -7.5rem !important;
    }
-   
+
    .md\:-my-9 {
       margin-top: -10rem !important;
       margin-bottom: -10rem !important;
    }
-   
+
    .md\:-my-10 {
       margin-top: -12.5rem !important;
       margin-bottom: -12.5rem !important;
    }
-   
+
    .md\:-my-11 {
       margin-top: -15rem !important;
       margin-bottom: -15rem !important;
    }
-   
+
    .md\:-my-12 {
       margin-top: -20rem !important;
       margin-bottom: -20rem !important;
    }
-   
+
    .md\:-mt-1 {
       margin-top: -0.25rem !important;
    }
-   
+
    .md\:-mt-2 {
       margin-top: -0.5rem !important;
    }
-   
+
    .md\:-mt-3 {
       margin-top: -1rem !important;
    }
-   
+
    .md\:-mt-4 {
       margin-top: -1.5rem !important;
    }
-   
+
    .md\:-mt-5 {
       margin-top: -3rem !important;
    }
-   
+
    .md\:-mt-6 {
       margin-top: -4rem !important;
    }
-   
+
    .md\:-mt-7 {
       margin-top: -5rem !important;
    }
-   
+
    .md\:-mt-8 {
       margin-top: -7.5rem !important;
    }
-   
+
    .md\:-mt-9 {
       margin-top: -10rem !important;
    }
-   
+
    .md\:-mt-10 {
       margin-top: -12.5rem !important;
    }
-   
+
    .md\:-mt-11 {
       margin-top: -15rem !important;
    }
-   
+
    .md\:-mt-12 {
       margin-top: -20rem !important;
    }
-   
+
    .md\:-mb-1 {
       margin-bottom: -0.25rem !important;
    }
-   
+
    .md\:-mb-2 {
       margin-bottom: -0.5rem !important;
    }
-   
+
    .md\:-mb-3 {
       margin-bottom: -1rem !important;
    }
-   
+
    .md\:-mb-4 {
       margin-bottom: -1.5rem !important;
    }
-   
+
    .md\:-mb-5 {
       margin-bottom: -3rem !important;
    }
-   
+
    .md\:-mb-6 {
       margin-bottom: -4rem !important;
    }
-   
+
    .md\:-mb-7 {
       margin-bottom: -5rem !important;
    }
-   
+
    .md\:-mb-8 {
       margin-bottom: -7.5rem !important;
    }
-   
+
    .md\:-mb-9 {
       margin-bottom: -10rem !important;
    }
-   
+
    .md\:-mb-10 {
       margin-bottom: -12.5rem !important;
    }
-   
+
    .md\:-mb-11 {
       margin-bottom: -15rem !important;
    }
-   
+
    .md\:-mb-12 {
       margin-bottom: -20rem !important;
    }
-   
+
    .md\:-mr-1 {
       margin-right: -0.25rem !important;
    }
-   
+
    .md\:-mr-2 {
       margin-right: -0.5rem !important;
    }
-   
+
    .md\:-mr-3 {
       margin-right: -1rem !important;
    }
-   
+
    .md\:-mr-4 {
       margin-right: -1.5rem !important;
    }
-   
+
    .md\:-mr-5 {
       margin-right: -3rem !important;
    }
-   
+
    .md\:-mr-6 {
       margin-right: -4rem !important;
    }
-   
+
    .md\:-mr-7 {
       margin-right: -5rem !important;
    }
-   
+
    .md\:-mr-8 {
       margin-right: -7.5rem !important;
    }
-   
+
    .md\:-mr-9 {
       margin-right: -10rem !important;
    }
-   
+
    .md\:-mr-10 {
       margin-right: -12.5rem !important;
    }
-   
+
    .md\:-mr-11 {
       margin-right: -15rem !important;
    }
-   
+
    .md\:-mr-12 {
       margin-right: -20rem !important;
    }
-   
+
    .md\:-ml-1 {
       margin-left: -0.25rem !important;
    }
-   
+
    .md\:-ml-2 {
       margin-left: -0.5rem !important;
    }
-   
+
    .md\:-ml-3 {
       margin-left: -1rem !important;
    }
-   
+
    .md\:-ml-4 {
       margin-left: -1.5rem !important;
    }
-   
+
    .md\:-ml-5 {
       margin-left: -3rem !important;
    }
-   
+
    .md\:-ml-6 {
       margin-left: -4rem !important;
    }
-   
+
    .md\:-ml-7 {
       margin-left: -5rem !important;
    }
-   
+
    .md\:-ml-8 {
       margin-left: -7.5rem !important;
    }
-   
+
    .md\:-ml-9 {
       margin-left: -10rem !important;
    }
-   
+
    .md\:-ml-10 {
       margin-left: -12.5rem !important;
    }
-   
+
    .md\:-ml-11 {
       margin-left: -15rem !important;
    }
-   
+
    .md\:-ml-12 {
       margin-left: -20rem !important;
    }
@@ -2307,765 +2307,765 @@
    .lg\:m-0 {
       margin: 0 !important;
    }
-   
+
    .lg\:m-1 {
       margin: 0.25rem !important;
    }
-   
+
    .lg\:m-2 {
       margin: 0.5rem !important;
    }
-   
+
    .lg\:m-3 {
       margin: 1rem !important;
    }
-   
+
    .lg\:m-4 {
       margin: 1.5rem !important;
    }
-   
+
    .lg\:m-5 {
       margin: 3rem !important;
    }
-   
+
    .lg\:m-6 {
       margin: 4rem !important;
    }
-   
+
    .lg\:m-7 {
       margin: 5rem !important;
    }
-   
+
    .lg\:m-8 {
       margin: 7.5rem !important;
    }
-   
+
    .lg\:m-9 {
       margin: 10rem !important;
    }
-   
+
    .lg\:m-10 {
       margin: 12.5rem !important;
    }
-   
+
    .lg\:m-11 {
       margin: 15rem !important;
    }
-   
+
    .lg\:m-12 {
       margin: 20rem !important;
    }
-   
+
    .lg\:m-auto {
       margin: auto !important;
    }
-   
+
    .lg\:mx-0 {
       margin-right: 0 !important;
       margin-left: 0 !important;
    }
-   
+
    .lg\:mx-1 {
       margin-right: 0.25rem !important;
       margin-left: 0.25rem !important;
    }
-   
+
    .lg\:mx-2 {
       margin-right: 0.5rem !important;
       margin-left: 0.5rem !important;
    }
-   
+
    .lg\:mx-3 {
       margin-right: 1rem !important;
       margin-left: 1rem !important;
    }
-   
+
    .lg\:mx-4 {
       margin-right: 1.5rem !important;
       margin-left: 1.5rem !important;
    }
-   
+
    .lg\:mx-5 {
       margin-right: 3rem !important;
       margin-left: 3rem !important;
    }
-   
+
    .lg\:mx-6 {
       margin-right: 4rem !important;
       margin-left: 4rem !important;
    }
-   
+
    .lg\:mx-7 {
       margin-right: 5rem !important;
       margin-left: 5rem !important;
    }
-   
+
    .lg\:mx-8 {
       margin-right: 7.5rem !important;
       margin-left: 7.5rem !important;
    }
-   
+
    .lg\:mx-9 {
       margin-right: 10rem !important;
       margin-left: 10rem !important;
    }
-   
+
    .lg\:mx-10 {
       margin-right: 12.5rem !important;
       margin-left: 12.5rem !important;
    }
-   
+
    .lg\:mx-11 {
       margin-right: 15rem !important;
       margin-left: 15rem !important;
    }
-   
+
    .lg\:mx-12 {
       margin-right: 20rem !important;
       margin-left: 20rem !important;
    }
-   
+
    .lg\:mx-auto {
       margin-right: auto !important;
       margin-left: auto !important;
    }
-   
+
    .lg\:my-0 {
       margin-top: 0 !important;
       margin-bottom: 0 !important;
    }
-   
+
    .lg\:my-1 {
       margin-top: 0.25rem !important;
       margin-bottom: 0.25rem !important;
    }
-   
+
    .lg\:my-2 {
       margin-top: 0.5rem !important;
       margin-bottom: 0.5rem !important;
    }
-   
+
    .lg\:my-3 {
       margin-top: 1rem !important;
       margin-bottom: 1rem !important;
    }
-   
+
    .lg\:my-4 {
       margin-top: 1.5rem !important;
       margin-bottom: 1.5rem !important;
    }
-   
+
    .lg\:my-5 {
       margin-top: 3rem !important;
       margin-bottom: 3rem !important;
    }
-   
+
    .lg\:my-6 {
       margin-top: 4rem !important;
       margin-bottom: 4rem !important;
    }
-   
+
    .lg\:my-7 {
       margin-top: 5rem !important;
       margin-bottom: 5rem !important;
    }
-   
+
    .lg\:my-8 {
       margin-top: 7.5rem !important;
       margin-bottom: 7.5rem !important;
    }
-   
+
    .lg\:my-9 {
       margin-top: 10rem !important;
       margin-bottom: 10rem !important;
    }
-   
+
    .lg\:my-10 {
       margin-top: 12.5rem !important;
       margin-bottom: 12.5rem !important;
    }
-   
+
    .lg\:my-11 {
       margin-top: 15rem !important;
       margin-bottom: 15rem !important;
    }
-   
+
    .lg\:my-12 {
       margin-top: 20rem !important;
       margin-bottom: 20rem !important;
    }
-   
+
    .lg\:my-auto {
       margin-top: auto !important;
       margin-bottom: auto !important;
    }
-   
+
    .lg\:mt-1 {
       margin-top: 0.25rem !important;
    }
-   
+
    .lg\:mt-2 {
       margin-top: 0.5rem !important;
    }
-   
+
    .lg\:mt-3 {
       margin-top: 1rem !important;
    }
-   
+
    .lg\:mt-4 {
       margin-top: 1.5rem !important;
    }
-   
+
    .lg\:mt-5 {
       margin-top: 3rem !important;
    }
-   
+
    .lg\:mt-6 {
       margin-top: 4rem !important;
    }
-   
+
    .lg\:mt-7 {
       margin-top: 5rem !important;
    }
-   
+
    .lg\:mt-8 {
       margin-top: 7.5rem !important;
    }
-   
+
    .lg\:mt-9 {
       margin-top: 10rem !important;
    }
-   
+
    .lg\:mt-10 {
       margin-top: 12.5rem !important;
    }
-   
+
    .lg\:mt-11 {
       margin-top: 15rem !important;
    }
-   
+
    .lg\:mt-12 {
       margin-top: 20rem !important;
    }
-   
+
    .lg\:mt-auto {
       margin-top: auto !important;
    }
-   
+
    .lg\:mb-1 {
       margin-bottom: 0.25rem !important;
    }
-   
+
    .lg\:mb-2 {
       margin-bottom: 0.5rem !important;
    }
-   
+
    .lg\:mb-3 {
       margin-bottom: 1rem !important;
    }
-   
+
    .lg\:mb-4 {
       margin-bottom: 1.5rem !important;
    }
-   
+
    .lg\:mb-5 {
       margin-bottom: 3rem !important;
    }
-   
+
    .lg\:mb-6 {
       margin-bottom: 4rem !important;
    }
-   
+
    .lg\:mb-7 {
       margin-bottom: 5rem !important;
    }
-   
+
    .lg\:mb-8 {
       margin-bottom: 7.5rem !important;
    }
-   
+
    .lg\:mb-9 {
       margin-bottom: 10rem !important;
    }
-   
+
    .lg\:mb-10 {
       margin-bottom: 12.5rem !important;
    }
-   
+
    .lg\:mb-11 {
       margin-bottom: 15rem !important;
    }
-   
+
    .lg\:mb-12 {
       margin-bottom: 20rem !important;
    }
-   
+
    .lg\:mb-auto {
       margin-bottom: auto !important;
    }
-   
-   
+
+
    .lg\:mr-1 {
       margin-right: 0.25rem !important;
    }
-   
+
    .lg\:mr-2 {
       margin-right: 0.5rem !important;
    }
-   
+
    .lg\:mr-3 {
       margin-right: 1rem !important;
    }
-   
+
    .lg\:mr-4 {
       margin-right: 1.5rem !important;
    }
-   
+
    .lg\:mr-5 {
       margin-right: 3rem !important;
    }
-   
+
    .lg\:mr-6 {
       margin-right: 4rem !important;
    }
-   
+
    .lg\:mr-7 {
       margin-right: 5rem !important;
    }
-   
+
    .lg\:mr-8 {
       margin-right: 7.5rem !important;
    }
-   
+
    .lg\:mr-9 {
       margin-right: 10rem !important;
    }
-   
+
    .lg\:mr-10 {
       margin-right: 12.5rem !important;
    }
-   
+
    .lg\:mr-11 {
       margin-right: 15rem !important;
    }
-   
+
    .lg\:mr-12 {
       margin-right: 20rem !important;
    }
-   
+
    .lg\:mr-auto {
       margin-right: auto !important;
    }
-   
+
    .lg\:ml-1 {
       margin-left: 0.25rem !important;
    }
-   
+
    .lg\:ml-2 {
       margin-left: 0.5rem !important;
    }
-   
+
    .lg\:ml-3 {
       margin-left: 1rem !important;
    }
-   
+
    .lg\:ml-4 {
       margin-left: 1.5rem !important;
    }
-   
+
    .lg\:ml-5 {
       margin-left: 3rem !important;
    }
-   
+
    .lg\:ml-6 {
       margin-left: 4rem !important;
    }
-   
+
    .lg\:ml-7 {
       margin-left: 5rem !important;
    }
-   
+
    .lg\:ml-8 {
       margin-left: 7.5rem !important;
    }
-   
+
    .lg\:ml-9 {
       margin-left: 10rem !important;
    }
-   
+
    .lg\:ml-10 {
       margin-left: 12.5rem !important;
    }
-   
+
    .lg\:ml-11 {
       margin-left: 15rem !important;
    }
-   
+
    .lg\:ml-12 {
       margin-left: 20rem !important;
    }
-   
+
    .lg\:ml-auto {
       margin-left: auto !important;
    }
-   
-   
+
+
    .lg\:-m-1 {
       margin: -0.25rem !important;
    }
-   
+
    .lg\:-m-2 {
       margin: -0.5rem !important;
    }
-   
+
    .lg\:-m-3 {
       margin: -1rem !important;
    }
-   
+
    .lg\:-m-4 {
       margin: -1.5rem !important;
    }
-   
+
    .lg\:-m-5 {
       margin: -3rem !important;
    }
-   
+
    .lg\:-m-6 {
       margin: -4rem !important;
    }
-   
+
    .lg\:-m-7 {
       margin: -5rem !important;
    }
-   
+
    .lg\:-m-8 {
       margin: -7.5rem !important;
    }
-   
+
    .lg\:-m-9 {
       margin: -10rem !important;
    }
-   
+
    .lg\:-m-10 {
       margin: -12.5rem !important;
    }
-   
+
    .lg\:-m-11 {
       margin: -15rem !important;
    }
-   
+
    .lg\:-m-12 {
       margin: -20rem !important;
    }
-   
+
    .lg\:-mx-1 {
       margin-right: -0.25rem !important;
       margin-left: -0.25rem !important;
    }
-   
+
    .lg\:-mx-2 {
       margin-right: -0.5rem !important;
       margin-left: -0.5rem !important;
    }
-   
+
    .lg\:-mx-3 {
       margin-right: -1rem !important;
       margin-left: -1rem !important;
    }
-   
+
    .lg\:-mx-4 {
       margin-right: -1.5rem !important;
       margin-left: -1.5rem !important;
    }
-   
+
    .lg\:-mx-5 {
       margin-right: -3rem !important;
       margin-left: -3rem !important;
    }
-   
+
    .lg\:-mx-6 {
       margin-right: -4rem !important;
       margin-left: -4rem !important;
    }
-   
+
    .lg\:-mx-7 {
       margin-right: -5rem !important;
       margin-left: -5rem !important;
    }
-   
+
    .lg\:-mx-8 {
       margin-right: -7.5rem !important;
       margin-left: -7.5rem !important;
    }
-   
+
    .lg\:-mx-9 {
       margin-right: -10rem !important;
       margin-left: -10rem !important;
    }
-   
+
    .lg\:-mx-10 {
       margin-right: -12.5rem !important;
       margin-left: -12.5rem !important;
    }
-   
+
    .lg\:-mx-11 {
       margin-right: -15rem !important;
       margin-left: -15rem !important;
    }
-   
+
    .lg\:-mx-12 {
       margin-right: -20rem !important;
       margin-left: -20rem !important;
    }
-   
+
    .lg\:-my-1 {
       margin-top: -0.25rem !important;
       margin-bottom: -0.25rem !important;
    }
-   
+
    .lg\:-my-2 {
       margin-top: -0.5rem !important;
       margin-bottom: -0.5rem !important;
    }
-   
+
    .lg\:-my-3 {
       margin-top: -1rem !important;
       margin-bottom: -1rem !important;
    }
-   
+
    .lg\:-my-4 {
       margin-top: -1.5rem !important;
       margin-bottom: -1.5rem !important;
    }
-   
+
    .lg\:-my-5 {
       margin-top: -3rem !important;
       margin-bottom: -3rem !important;
    }
-   
+
    .lg\:-my-6 {
       margin-top: -4rem !important;
       margin-bottom: -4rem !important;
    }
-   
+
    .lg\:-my-7 {
       margin-top: -5rem !important;
       margin-bottom: -5rem !important;
    }
-   
+
    .lg\:-my-8 {
       margin-top: -7.5rem !important;
       margin-bottom: -7.5rem !important;
    }
-   
+
    .lg\:-my-9 {
       margin-top: -10rem !important;
       margin-bottom: -10rem !important;
    }
-   
+
    .lg\:-my-10 {
       margin-top: -12.5rem !important;
       margin-bottom: -12.5rem !important;
    }
-   
+
    .lg\:-my-11 {
       margin-top: -15rem !important;
       margin-bottom: -15rem !important;
    }
-   
+
    .lg\:-my-12 {
       margin-top: -20rem !important;
       margin-bottom: -20rem !important;
    }
-   
+
    .lg\:-mt-1 {
       margin-top: -0.25rem !important;
    }
-   
+
    .lg\:-mt-2 {
       margin-top: -0.5rem !important;
    }
-   
+
    .lg\:-mt-3 {
       margin-top: -1rem !important;
    }
-   
+
    .lg\:-mt-4 {
       margin-top: -1.5rem !important;
    }
-   
+
    .lg\:-mt-5 {
       margin-top: -3rem !important;
    }
-   
+
    .lg\:-mt-6 {
       margin-top: -4rem !important;
    }
-   
+
    .lg\:-mt-7 {
       margin-top: -5rem !important;
    }
-   
+
    .lg\:-mt-8 {
       margin-top: -7.5rem !important;
    }
-   
+
    .lg\:-mt-9 {
       margin-top: -10rem !important;
    }
-   
+
    .lg\:-mt-10 {
       margin-top: -12.5rem !important;
    }
-   
+
    .lg\:-mt-11 {
       margin-top: -15rem !important;
    }
-   
+
    .lg\:-mt-12 {
       margin-top: -20rem !important;
    }
-   
+
    .lg\:-mb-1 {
       margin-bottom: -0.25rem !important;
    }
-   
+
    .lg\:-mb-2 {
       margin-bottom: -0.5rem !important;
    }
-   
+
    .lg\:-mb-3 {
       margin-bottom: -1rem !important;
    }
-   
+
    .lg\:-mb-4 {
       margin-bottom: -1.5rem !important;
    }
-   
+
    .lg\:-mb-5 {
       margin-bottom: -3rem !important;
    }
-   
+
    .lg\:-mb-6 {
       margin-bottom: -4rem !important;
    }
-   
+
    .lg\:-mb-7 {
       margin-bottom: -5rem !important;
    }
-   
+
    .lg\:-mb-8 {
       margin-bottom: -7.5rem !important;
    }
-   
+
    .lg\:-mb-9 {
       margin-bottom: -10rem !important;
    }
-   
+
    .lg\:-mb-10 {
       margin-bottom: -12.5rem !important;
    }
-   
+
    .lg\:-mb-11 {
       margin-bottom: -15rem !important;
    }
-   
+
    .lg\:-mb-12 {
       margin-bottom: -20rem !important;
    }
-   
+
    .lg\:-mr-1 {
       margin-right: -0.25rem !important;
    }
-   
+
    .lg\:-mr-2 {
       margin-right: -0.5rem !important;
    }
-   
+
    .lg\:-mr-3 {
       margin-right: -1rem !important;
    }
-   
+
    .lg\:-mr-4 {
       margin-right: -1.5rem !important;
    }
-   
+
    .lg\:-mr-5 {
       margin-right: -3rem !important;
    }
-   
+
    .lg\:-mr-6 {
       margin-right: -4rem !important;
    }
-   
+
    .lg\:-mr-7 {
       margin-right: -5rem !important;
    }
-   
+
    .lg\:-mr-8 {
       margin-right: -7.5rem !important;
    }
-   
+
    .lg\:-mr-9 {
       margin-right: -10rem !important;
    }
-   
+
    .lg\:-mr-10 {
       margin-right: -12.5rem !important;
    }
-   
+
    .lg\:-mr-11 {
       margin-right: -15rem !important;
    }
-   
+
    .lg\:-mr-12 {
       margin-right: -20rem !important;
    }
-   
+
    .lg\:-ml-1 {
       margin-left: -0.25rem !important;
    }
-   
+
    .lg\:-ml-2 {
       margin-left: -0.5rem !important;
    }
-   
+
    .lg\:-ml-3 {
       margin-left: -1rem !important;
    }
-   
+
    .lg\:-ml-4 {
       margin-left: -1.5rem !important;
    }
-   
+
    .lg\:-ml-5 {
       margin-left: -3rem !important;
    }
-   
+
    .lg\:-ml-6 {
       margin-left: -4rem !important;
    }
-   
+
    .lg\:-ml-7 {
       margin-left: -5rem !important;
    }
-   
+
    .lg\:-ml-8 {
       margin-left: -7.5rem !important;
    }
-   
+
    .lg\:-ml-9 {
       margin-left: -10rem !important;
    }
-   
+
    .lg\:-ml-10 {
       margin-left: -12.5rem !important;
    }
-   
+
    .lg\:-ml-11 {
       margin-left: -15rem !important;
    }
-   
+
    .lg\:-ml-12 {
       margin-left: -20rem !important;
    }
@@ -3075,765 +3075,765 @@
    .xl\:m-0 {
       margin: 0 !important;
    }
-   
+
    .xl\:m-1 {
       margin: 0.25rem !important;
    }
-   
+
    .xl\:m-2 {
       margin: 0.5rem !important;
    }
-   
+
    .xl\:m-3 {
       margin: 1rem !important;
    }
-   
+
    .xl\:m-4 {
       margin: 1.5rem !important;
    }
-   
+
    .xl\:m-5 {
       margin: 3rem !important;
    }
-   
+
    .xl\:m-6 {
       margin: 4rem !important;
    }
-   
+
    .xl\:m-7 {
       margin: 5rem !important;
    }
-   
+
    .xl\:m-8 {
       margin: 7.5rem !important;
    }
-   
+
    .xl\:m-9 {
       margin: 10rem !important;
    }
-   
+
    .xl\:m-10 {
       margin: 12.5rem !important;
    }
-   
+
    .xl\:m-11 {
       margin: 15rem !important;
    }
-   
+
    .xl\:m-12 {
       margin: 20rem !important;
    }
-   
+
    .xl\:m-auto {
       margin: auto !important;
    }
-   
+
    .xl\:mx-0 {
       margin-right: 0 !important;
       margin-left: 0 !important;
    }
-   
+
    .xl\:mx-1 {
       margin-right: 0.25rem !important;
       margin-left: 0.25rem !important;
    }
-   
+
    .xl\:mx-2 {
       margin-right: 0.5rem !important;
       margin-left: 0.5rem !important;
    }
-   
+
    .xl\:mx-3 {
       margin-right: 1rem !important;
       margin-left: 1rem !important;
    }
-   
+
    .xl\:mx-4 {
       margin-right: 1.5rem !important;
       margin-left: 1.5rem !important;
    }
-   
+
    .xl\:mx-5 {
       margin-right: 3rem !important;
       margin-left: 3rem !important;
    }
-   
+
    .xl\:mx-6 {
       margin-right: 4rem !important;
       margin-left: 4rem !important;
    }
-   
+
    .xl\:mx-7 {
       margin-right: 5rem !important;
       margin-left: 5rem !important;
    }
-   
+
    .xl\:mx-8 {
       margin-right: 7.5rem !important;
       margin-left: 7.5rem !important;
    }
-   
+
    .xl\:mx-9 {
       margin-right: 10rem !important;
       margin-left: 10rem !important;
    }
-   
+
    .xl\:mx-10 {
       margin-right: 12.5rem !important;
       margin-left: 12.5rem !important;
    }
-   
+
    .xl\:mx-11 {
       margin-right: 15rem !important;
       margin-left: 15rem !important;
    }
-   
+
    .xl\:mx-12 {
       margin-right: 20rem !important;
       margin-left: 20rem !important;
    }
-   
+
    .xl\:mx-auto {
       margin-right: auto !important;
       margin-left: auto !important;
    }
-   
+
    .xl\:my-0 {
       margin-top: 0 !important;
       margin-bottom: 0 !important;
    }
-   
+
    .xl\:my-1 {
       margin-top: 0.25rem !important;
       margin-bottom: 0.25rem !important;
    }
-   
+
    .xl\:my-2 {
       margin-top: 0.5rem !important;
       margin-bottom: 0.5rem !important;
    }
-   
+
    .xl\:my-3 {
       margin-top: 1rem !important;
       margin-bottom: 1rem !important;
    }
-   
+
    .xl\:my-4 {
       margin-top: 1.5rem !important;
       margin-bottom: 1.5rem !important;
    }
-   
+
    .xl\:my-5 {
       margin-top: 3rem !important;
       margin-bottom: 3rem !important;
    }
-   
+
    .xl\:my-6 {
       margin-top: 4rem !important;
       margin-bottom: 4rem !important;
    }
-   
+
    .xl\:my-7 {
       margin-top: 5rem !important;
       margin-bottom: 5rem !important;
    }
-   
+
    .xl\:my-8 {
       margin-top: 7.5rem !important;
       margin-bottom: 7.5rem !important;
    }
-   
+
    .xl\:my-9 {
       margin-top: 10rem !important;
       margin-bottom: 10rem !important;
    }
-   
+
    .xl\:my-10 {
       margin-top: 12.5rem !important;
       margin-bottom: 12.5rem !important;
    }
-   
+
    .xl\:my-11 {
       margin-top: 15rem !important;
       margin-bottom: 15rem !important;
    }
-   
+
    .xl\:my-12 {
       margin-top: 20rem !important;
       margin-bottom: 20rem !important;
    }
-   
+
    .xl\:my-auto {
       margin-top: auto !important;
       margin-bottom: auto !important;
    }
-   
+
    .xl\:mt-1 {
       margin-top: 0.25rem !important;
    }
-   
+
    .xl\:mt-2 {
       margin-top: 0.5rem !important;
    }
-   
+
    .xl\:mt-3 {
       margin-top: 1rem !important;
    }
-   
+
    .xl\:mt-4 {
       margin-top: 1.5rem !important;
    }
-   
+
    .xl\:mt-5 {
       margin-top: 3rem !important;
    }
-   
+
    .xl\:mt-6 {
       margin-top: 4rem !important;
    }
-   
+
    .xl\:mt-7 {
       margin-top: 5rem !important;
    }
-   
+
    .xl\:mt-8 {
       margin-top: 7.5rem !important;
    }
-   
+
    .xl\:mt-9 {
       margin-top: 10rem !important;
    }
-   
+
    .xl\:mt-10 {
       margin-top: 12.5rem !important;
    }
-   
+
    .xl\:mt-11 {
       margin-top: 15rem !important;
    }
-   
+
    .xl\:mt-12 {
       margin-top: 20rem !important;
    }
-   
+
    .xl\:mt-auto {
       margin-top: auto !important;
    }
-   
+
    .xl\:mb-1 {
       margin-bottom: 0.25rem !important;
    }
-   
+
    .xl\:mb-2 {
       margin-bottom: 0.5rem !important;
    }
-   
+
    .xl\:mb-3 {
       margin-bottom: 1rem !important;
    }
-   
+
    .xl\:mb-4 {
       margin-bottom: 1.5rem !important;
    }
-   
+
    .xl\:mb-5 {
       margin-bottom: 3rem !important;
    }
-   
+
    .xl\:mb-6 {
       margin-bottom: 4rem !important;
    }
-   
+
    .xl\:mb-7 {
       margin-bottom: 5rem !important;
    }
-   
+
    .xl\:mb-8 {
       margin-bottom: 7.5rem !important;
    }
-   
+
    .xl\:mb-9 {
       margin-bottom: 10rem !important;
    }
-   
+
    .xl\:mb-10 {
       margin-bottom: 12.5rem !important;
    }
-   
+
    .xl\:mb-11 {
       margin-bottom: 15rem !important;
    }
-   
+
    .xl\:mb-12 {
       margin-bottom: 20rem !important;
    }
-   
+
    .xl\:mb-auto {
       margin-bottom: auto !important;
    }
-   
-   
+
+
    .xl\:mr-1 {
       margin-right: 0.25rem !important;
    }
-   
+
    .xl\:mr-2 {
       margin-right: 0.5rem !important;
    }
-   
+
    .xl\:mr-3 {
       margin-right: 1rem !important;
    }
-   
+
    .xl\:mr-4 {
       margin-right: 1.5rem !important;
    }
-   
+
    .xl\:mr-5 {
       margin-right: 3rem !important;
    }
-   
+
    .xl\:mr-6 {
       margin-right: 4rem !important;
    }
-   
+
    .xl\:mr-7 {
       margin-right: 5rem !important;
    }
-   
+
    .xl\:mr-8 {
       margin-right: 7.5rem !important;
    }
-   
+
    .xl\:mr-9 {
       margin-right: 10rem !important;
    }
-   
+
    .xl\:mr-10 {
       margin-right: 12.5rem !important;
    }
-   
+
    .xl\:mr-11 {
       margin-right: 15rem !important;
    }
-   
+
    .xl\:mr-12 {
       margin-right: 20rem !important;
    }
-   
+
    .xl\:mr-auto {
       margin-right: auto !important;
    }
-   
+
    .xl\:ml-1 {
       margin-left: 0.25rem !important;
    }
-   
+
    .xl\:ml-2 {
       margin-left: 0.5rem !important;
    }
-   
+
    .xl\:ml-3 {
       margin-left: 1rem !important;
    }
-   
+
    .xl\:ml-4 {
       margin-left: 1.5rem !important;
    }
-   
+
    .xl\:ml-5 {
       margin-left: 3rem !important;
    }
-   
+
    .xl\:ml-6 {
       margin-left: 4rem !important;
    }
-   
+
    .xl\:ml-7 {
       margin-left: 5rem !important;
    }
-   
+
    .xl\:ml-8 {
       margin-left: 7.5rem !important;
    }
-   
+
    .xl\:ml-9 {
       margin-left: 10rem !important;
    }
-   
+
    .xl\:ml-10 {
       margin-left: 12.5rem !important;
    }
-   
+
    .xl\:ml-11 {
       margin-left: 15rem !important;
    }
-   
+
    .xl\:ml-12 {
       margin-left: 20rem !important;
    }
-   
+
    .xl\:ml-auto {
       margin-left: auto !important;
    }
-   
-   
+
+
    .xl\:-m-1 {
       margin: -0.25rem !important;
    }
-   
+
    .xl\:-m-2 {
       margin: -0.5rem !important;
    }
-   
+
    .xl\:-m-3 {
       margin: -1rem !important;
    }
-   
+
    .xl\:-m-4 {
       margin: -1.5rem !important;
    }
-   
+
    .xl\:-m-5 {
       margin: -3rem !important;
    }
-   
+
    .xl\:-m-6 {
       margin: -4rem !important;
    }
-   
+
    .xl\:-m-7 {
       margin: -5rem !important;
    }
-   
+
    .xl\:-m-8 {
       margin: -7.5rem !important;
    }
-   
+
    .xl\:-m-9 {
       margin: -10rem !important;
    }
-   
+
    .xl\:-m-10 {
       margin: -12.5rem !important;
    }
-   
+
    .xl\:-m-11 {
       margin: -15rem !important;
    }
-   
+
    .xl\:-m-12 {
       margin: -20rem !important;
    }
-   
+
    .xl\:-mx-1 {
       margin-right: -0.25rem !important;
       margin-left: -0.25rem !important;
    }
-   
+
    .xl\:-mx-2 {
       margin-right: -0.5rem !important;
       margin-left: -0.5rem !important;
    }
-   
+
    .xl\:-mx-3 {
       margin-right: -1rem !important;
       margin-left: -1rem !important;
    }
-   
+
    .xl\:-mx-4 {
       margin-right: -1.5rem !important;
       margin-left: -1.5rem !important;
    }
-   
+
    .xl\:-mx-5 {
       margin-right: -3rem !important;
       margin-left: -3rem !important;
    }
-   
+
    .xl\:-mx-6 {
       margin-right: -4rem !important;
       margin-left: -4rem !important;
    }
-   
+
    .xl\:-mx-7 {
       margin-right: -5rem !important;
       margin-left: -5rem !important;
    }
-   
+
    .xl\:-mx-8 {
       margin-right: -7.5rem !important;
       margin-left: -7.5rem !important;
    }
-   
+
    .xl\:-mx-9 {
       margin-right: -10rem !important;
       margin-left: -10rem !important;
    }
-   
+
    .xl\:-mx-10 {
       margin-right: -12.5rem !important;
       margin-left: -12.5rem !important;
    }
-   
+
    .xl\:-mx-11 {
       margin-right: -15rem !important;
       margin-left: -15rem !important;
    }
-   
+
    .xl\:-mx-12 {
       margin-right: -20rem !important;
       margin-left: -20rem !important;
    }
-   
+
    .xl\:-my-1 {
       margin-top: -0.25rem !important;
       margin-bottom: -0.25rem !important;
    }
-   
+
    .xl\:-my-2 {
       margin-top: -0.5rem !important;
       margin-bottom: -0.5rem !important;
    }
-   
+
    .xl\:-my-3 {
       margin-top: -1rem !important;
       margin-bottom: -1rem !important;
    }
-   
+
    .xl\:-my-4 {
       margin-top: -1.5rem !important;
       margin-bottom: -1.5rem !important;
    }
-   
+
    .xl\:-my-5 {
       margin-top: -3rem !important;
       margin-bottom: -3rem !important;
    }
-   
+
    .xl\:-my-6 {
       margin-top: -4rem !important;
       margin-bottom: -4rem !important;
    }
-   
+
    .xl\:-my-7 {
       margin-top: -5rem !important;
       margin-bottom: -5rem !important;
    }
-   
+
    .xl\:-my-8 {
       margin-top: -7.5rem !important;
       margin-bottom: -7.5rem !important;
    }
-   
+
    .xl\:-my-9 {
       margin-top: -10rem !important;
       margin-bottom: -10rem !important;
    }
-   
+
    .xl\:-my-10 {
       margin-top: -12.5rem !important;
       margin-bottom: -12.5rem !important;
    }
-   
+
    .xl\:-my-11 {
       margin-top: -15rem !important;
       margin-bottom: -15rem !important;
    }
-   
+
    .xl\:-my-12 {
       margin-top: -20rem !important;
       margin-bottom: -20rem !important;
    }
-   
+
    .xl\:-mt-1 {
       margin-top: -0.25rem !important;
    }
-   
+
    .xl\:-mt-2 {
       margin-top: -0.5rem !important;
    }
-   
+
    .xl\:-mt-3 {
       margin-top: -1rem !important;
    }
-   
+
    .xl\:-mt-4 {
       margin-top: -1.5rem !important;
    }
-   
+
    .xl\:-mt-5 {
       margin-top: -3rem !important;
    }
-   
+
    .xl\:-mt-6 {
       margin-top: -4rem !important;
    }
-   
+
    .xl\:-mt-7 {
       margin-top: -5rem !important;
    }
-   
+
    .xl\:-mt-8 {
       margin-top: -7.5rem !important;
    }
-   
+
    .xl\:-mt-9 {
       margin-top: -10rem !important;
    }
-   
+
    .xl\:-mt-10 {
       margin-top: -12.5rem !important;
    }
-   
+
    .xl\:-mt-11 {
       margin-top: -15rem !important;
    }
-   
+
    .xl\:-mt-12 {
       margin-top: -20rem !important;
    }
-   
+
    .xl\:-mb-1 {
       margin-bottom: -0.25rem !important;
    }
-   
+
    .xl\:-mb-2 {
       margin-bottom: -0.5rem !important;
    }
-   
+
    .xl\:-mb-3 {
       margin-bottom: -1rem !important;
    }
-   
+
    .xl\:-mb-4 {
       margin-bottom: -1.5rem !important;
    }
-   
+
    .xl\:-mb-5 {
       margin-bottom: -3rem !important;
    }
-   
+
    .xl\:-mb-6 {
       margin-bottom: -4rem !important;
    }
-   
+
    .xl\:-mb-7 {
       margin-bottom: -5rem !important;
    }
-   
+
    .xl\:-mb-8 {
       margin-bottom: -7.5rem !important;
    }
-   
+
    .xl\:-mb-9 {
       margin-bottom: -10rem !important;
    }
-   
+
    .xl\:-mb-10 {
       margin-bottom: -12.5rem !important;
    }
-   
+
    .xl\:-mb-11 {
       margin-bottom: -15rem !important;
    }
-   
+
    .xl\:-mb-12 {
       margin-bottom: -20rem !important;
    }
-   
+
    .xl\:-mr-1 {
       margin-right: -0.25rem !important;
    }
-   
+
    .xl\:-mr-2 {
       margin-right: -0.5rem !important;
    }
-   
+
    .xl\:-mr-3 {
       margin-right: -1rem !important;
    }
-   
+
    .xl\:-mr-4 {
       margin-right: -1.5rem !important;
    }
-   
+
    .xl\:-mr-5 {
       margin-right: -3rem !important;
    }
-   
+
    .xl\:-mr-6 {
       margin-right: -4rem !important;
    }
-   
+
    .xl\:-mr-7 {
       margin-right: -5rem !important;
    }
-   
+
    .xl\:-mr-8 {
       margin-right: -7.5rem !important;
    }
-   
+
    .xl\:-mr-9 {
       margin-right: -10rem !important;
    }
-   
+
    .xl\:-mr-10 {
       margin-right: -12.5rem !important;
    }
-   
+
    .xl\:-mr-11 {
       margin-right: -15rem !important;
    }
-   
+
    .xl\:-mr-12 {
       margin-right: -20rem !important;
    }
-   
+
    .xl\:-ml-1 {
       margin-left: -0.25rem !important;
    }
-   
+
    .xl\:-ml-2 {
       margin-left: -0.5rem !important;
    }
-   
+
    .xl\:-ml-3 {
       margin-left: -1rem !important;
    }
-   
+
    .xl\:-ml-4 {
       margin-left: -1.5rem !important;
    }
-   
+
    .xl\:-ml-5 {
       margin-left: -3rem !important;
    }
-   
+
    .xl\:-ml-6 {
       margin-left: -4rem !important;
    }
-   
+
    .xl\:-ml-7 {
       margin-left: -5rem !important;
    }
-   
+
    .xl\:-ml-8 {
       margin-left: -7.5rem !important;
    }
-   
+
    .xl\:-ml-9 {
       margin-left: -10rem !important;
    }
-   
+
    .xl\:-ml-10 {
       margin-left: -12.5rem !important;
    }
-   
+
    .xl\:-ml-11 {
       margin-left: -15rem !important;
    }
-   
+
    .xl\:-ml-12 {
       margin-left: -20rem !important;
    }
@@ -3843,765 +3843,765 @@
    .\2xl\:m-0 {
       margin: 0 !important;
    }
-   
+
    .\2xl\:m-1 {
       margin: 0.25rem !important;
    }
-   
+
    .\2xl\:m-2 {
       margin: 0.5rem !important;
    }
-   
+
    .\2xl\:m-3 {
       margin: 1rem !important;
    }
-   
+
    .\2xl\:m-4 {
       margin: 1.5rem !important;
    }
-   
+
    .\2xl\:m-5 {
       margin: 3rem !important;
    }
-   
+
    .\2xl\:m-6 {
       margin: 4rem !important;
    }
-   
+
    .\2xl\:m-7 {
       margin: 5rem !important;
    }
-   
+
    .\2xl\:m-8 {
       margin: 7.5rem !important;
    }
-   
+
    .\2xl\:m-9 {
       margin: 10rem !important;
    }
-   
+
    .\2xl\:m-10 {
       margin: 12.5rem !important;
    }
-   
+
    .\2xl\:m-11 {
       margin: 15rem !important;
    }
-   
+
    .\2xl\:m-12 {
       margin: 20rem !important;
    }
-   
+
    .\2xl\:m-auto {
       margin: auto !important;
    }
-   
+
    .\2xl\:mx-0 {
       margin-right: 0 !important;
       margin-left: 0 !important;
    }
-   
+
    .\2xl\:mx-1 {
       margin-right: 0.25rem !important;
       margin-left: 0.25rem !important;
    }
-   
+
    .\2xl\:mx-2 {
       margin-right: 0.5rem !important;
       margin-left: 0.5rem !important;
    }
-   
+
    .\2xl\:mx-3 {
       margin-right: 1rem !important;
       margin-left: 1rem !important;
    }
-   
+
    .\2xl\:mx-4 {
       margin-right: 1.5rem !important;
       margin-left: 1.5rem !important;
    }
-   
+
    .\2xl\:mx-5 {
       margin-right: 3rem !important;
       margin-left: 3rem !important;
    }
-   
+
    .\2xl\:mx-6 {
       margin-right: 4rem !important;
       margin-left: 4rem !important;
    }
-   
+
    .\2xl\:mx-7 {
       margin-right: 5rem !important;
       margin-left: 5rem !important;
    }
-   
+
    .\2xl\:mx-8 {
       margin-right: 7.5rem !important;
       margin-left: 7.5rem !important;
    }
-   
+
    .\2xl\:mx-9 {
       margin-right: 10rem !important;
       margin-left: 10rem !important;
    }
-   
+
    .\2xl\:mx-10 {
       margin-right: 12.5rem !important;
       margin-left: 12.5rem !important;
    }
-   
+
    .\2xl\:mx-11 {
       margin-right: 15rem !important;
       margin-left: 15rem !important;
    }
-   
+
    .\2xl\:mx-12 {
       margin-right: 20rem !important;
       margin-left: 20rem !important;
    }
-   
+
    .\2xl\:mx-auto {
       margin-right: auto !important;
       margin-left: auto !important;
    }
-   
+
    .\2xl\:my-0 {
       margin-top: 0 !important;
       margin-bottom: 0 !important;
    }
-   
+
    .\2xl\:my-1 {
       margin-top: 0.25rem !important;
       margin-bottom: 0.25rem !important;
    }
-   
+
    .\2xl\:my-2 {
       margin-top: 0.5rem !important;
       margin-bottom: 0.5rem !important;
    }
-   
+
    .\2xl\:my-3 {
       margin-top: 1rem !important;
       margin-bottom: 1rem !important;
    }
-   
+
    .\2xl\:my-4 {
       margin-top: 1.5rem !important;
       margin-bottom: 1.5rem !important;
    }
-   
+
    .\2xl\:my-5 {
       margin-top: 3rem !important;
       margin-bottom: 3rem !important;
    }
-   
+
    .\2xl\:my-6 {
       margin-top: 4rem !important;
       margin-bottom: 4rem !important;
    }
-   
+
    .\2xl\:my-7 {
       margin-top: 5rem !important;
       margin-bottom: 5rem !important;
    }
-   
+
    .\2xl\:my-8 {
       margin-top: 7.5rem !important;
       margin-bottom: 7.5rem !important;
    }
-   
+
    .\2xl\:my-9 {
       margin-top: 10rem !important;
       margin-bottom: 10rem !important;
    }
-   
+
    .\2xl\:my-10 {
       margin-top: 12.5rem !important;
       margin-bottom: 12.5rem !important;
    }
-   
+
    .\2xl\:my-11 {
       margin-top: 15rem !important;
       margin-bottom: 15rem !important;
    }
-   
+
    .\2xl\:my-12 {
       margin-top: 20rem !important;
       margin-bottom: 20rem !important;
    }
-   
+
    .\2xl\:my-auto {
       margin-top: auto !important;
       margin-bottom: auto !important;
    }
-   
+
    .\2xl\:mt-1 {
       margin-top: 0.25rem !important;
    }
-   
+
    .\2xl\:mt-2 {
       margin-top: 0.5rem !important;
    }
-   
+
    .\2xl\:mt-3 {
       margin-top: 1rem !important;
    }
-   
+
    .\2xl\:mt-4 {
       margin-top: 1.5rem !important;
    }
-   
+
    .\2xl\:mt-5 {
       margin-top: 3rem !important;
    }
-   
+
    .\2xl\:mt-6 {
       margin-top: 4rem !important;
    }
-   
+
    .\2xl\:mt-7 {
       margin-top: 5rem !important;
    }
-   
+
    .\2xl\:mt-8 {
       margin-top: 7.5rem !important;
    }
-   
+
    .\2xl\:mt-9 {
       margin-top: 10rem !important;
    }
-   
+
    .\2xl\:mt-10 {
       margin-top: 12.5rem !important;
    }
-   
+
    .\2xl\:mt-11 {
       margin-top: 15rem !important;
    }
-   
+
    .\2xl\:mt-12 {
       margin-top: 20rem !important;
    }
-   
+
    .\2xl\:mt-auto {
       margin-top: auto !important;
    }
-   
+
    .\2xl\:mb-1 {
       margin-bottom: 0.25rem !important;
    }
-   
+
    .\2xl\:mb-2 {
       margin-bottom: 0.5rem !important;
    }
-   
+
    .\2xl\:mb-3 {
       margin-bottom: 1rem !important;
    }
-   
+
    .\2xl\:mb-4 {
       margin-bottom: 1.5rem !important;
    }
-   
+
    .\2xl\:mb-5 {
       margin-bottom: 3rem !important;
    }
-   
+
    .\2xl\:mb-6 {
       margin-bottom: 4rem !important;
    }
-   
+
    .\2xl\:mb-7 {
       margin-bottom: 5rem !important;
    }
-   
+
    .\2xl\:mb-8 {
       margin-bottom: 7.5rem !important;
    }
-   
+
    .\2xl\:mb-9 {
       margin-bottom: 10rem !important;
    }
-   
+
    .\2xl\:mb-10 {
       margin-bottom: 12.5rem !important;
    }
-   
+
    .\2xl\:mb-11 {
       margin-bottom: 15rem !important;
    }
-   
+
    .\2xl\:mb-12 {
       margin-bottom: 20rem !important;
    }
-   
+
    .\2xl\:mb-auto {
       margin-bottom: auto !important;
    }
-   
-   
+
+
    .\2xl\:mr-1 {
       margin-right: 0.25rem !important;
    }
-   
+
    .\2xl\:mr-2 {
       margin-right: 0.5rem !important;
    }
-   
+
    .\2xl\:mr-3 {
       margin-right: 1rem !important;
    }
-   
+
    .\2xl\:mr-4 {
       margin-right: 1.5rem !important;
    }
-   
+
    .\2xl\:mr-5 {
       margin-right: 3rem !important;
    }
-   
+
    .\2xl\:mr-6 {
       margin-right: 4rem !important;
    }
-   
+
    .\2xl\:mr-7 {
       margin-right: 5rem !important;
    }
-   
+
    .\2xl\:mr-8 {
       margin-right: 7.5rem !important;
    }
-   
+
    .\2xl\:mr-9 {
       margin-right: 10rem !important;
    }
-   
+
    .\2xl\:mr-10 {
       margin-right: 12.5rem !important;
    }
-   
+
    .\2xl\:mr-11 {
       margin-right: 15rem !important;
    }
-   
+
    .\2xl\:mr-12 {
       margin-right: 20rem !important;
    }
-   
+
    .\2xl\:mr-auto {
       margin-right: auto !important;
    }
-   
+
    .\2xl\:ml-1 {
       margin-left: 0.25rem !important;
    }
-   
+
    .\2xl\:ml-2 {
       margin-left: 0.5rem !important;
    }
-   
+
    .\2xl\:ml-3 {
       margin-left: 1rem !important;
    }
-   
+
    .\2xl\:ml-4 {
       margin-left: 1.5rem !important;
    }
-   
+
    .\2xl\:ml-5 {
       margin-left: 3rem !important;
    }
-   
+
    .\2xl\:ml-6 {
       margin-left: 4rem !important;
    }
-   
+
    .\2xl\:ml-7 {
       margin-left: 5rem !important;
    }
-   
+
    .\2xl\:ml-8 {
       margin-left: 7.5rem !important;
    }
-   
+
    .\2xl\:ml-9 {
       margin-left: 10rem !important;
    }
-   
+
    .\2xl\:ml-10 {
       margin-left: 12.5rem !important;
    }
-   
+
    .\2xl\:ml-11 {
       margin-left: 15rem !important;
    }
-   
+
    .\2xl\:ml-12 {
       margin-left: 20rem !important;
    }
-   
+
    .\2xl\:ml-auto {
       margin-left: auto !important;
    }
-   
-   
+
+
    .\2xl\:-m-1 {
       margin: -0.25rem !important;
    }
-   
+
    .\2xl\:-m-2 {
       margin: -0.5rem !important;
    }
-   
+
    .\2xl\:-m-3 {
       margin: -1rem !important;
    }
-   
+
    .\2xl\:-m-4 {
       margin: -1.5rem !important;
    }
-   
+
    .\2xl\:-m-5 {
       margin: -3rem !important;
    }
-   
+
    .\2xl\:-m-6 {
       margin: -4rem !important;
    }
-   
+
    .\2xl\:-m-7 {
       margin: -5rem !important;
    }
-   
+
    .\2xl\:-m-8 {
       margin: -7.5rem !important;
    }
-   
+
    .\2xl\:-m-9 {
       margin: -10rem !important;
    }
-   
+
    .\2xl\:-m-10 {
       margin: -12.5rem !important;
    }
-   
+
    .\2xl\:-m-11 {
       margin: -15rem !important;
    }
-   
+
    .\2xl\:-m-12 {
       margin: -20rem !important;
    }
-   
+
    .\2xl\:-mx-1 {
       margin-right: -0.25rem !important;
       margin-left: -0.25rem !important;
    }
-   
+
    .\2xl\:-mx-2 {
       margin-right: -0.5rem !important;
       margin-left: -0.5rem !important;
    }
-   
+
    .\2xl\:-mx-3 {
       margin-right: -1rem !important;
       margin-left: -1rem !important;
    }
-   
+
    .\2xl\:-mx-4 {
       margin-right: -1.5rem !important;
       margin-left: -1.5rem !important;
    }
-   
+
    .\2xl\:-mx-5 {
       margin-right: -3rem !important;
       margin-left: -3rem !important;
    }
-   
+
    .\2xl\:-mx-6 {
       margin-right: -4rem !important;
       margin-left: -4rem !important;
    }
-   
+
    .\2xl\:-mx-7 {
       margin-right: -5rem !important;
       margin-left: -5rem !important;
    }
-   
+
    .\2xl\:-mx-8 {
       margin-right: -7.5rem !important;
       margin-left: -7.5rem !important;
    }
-   
+
    .\2xl\:-mx-9 {
       margin-right: -10rem !important;
       margin-left: -10rem !important;
    }
-   
+
    .\2xl\:-mx-10 {
       margin-right: -12.5rem !important;
       margin-left: -12.5rem !important;
    }
-   
+
    .\2xl\:-mx-11 {
       margin-right: -15rem !important;
       margin-left: -15rem !important;
    }
-   
+
    .\2xl\:-mx-12 {
       margin-right: -20rem !important;
       margin-left: -20rem !important;
    }
-   
+
    .\2xl\:-my-1 {
       margin-top: -0.25rem !important;
       margin-bottom: -0.25rem !important;
    }
-   
+
    .\2xl\:-my-2 {
       margin-top: -0.5rem !important;
       margin-bottom: -0.5rem !important;
    }
-   
+
    .\2xl\:-my-3 {
       margin-top: -1rem !important;
       margin-bottom: -1rem !important;
    }
-   
+
    .\2xl\:-my-4 {
       margin-top: -1.5rem !important;
       margin-bottom: -1.5rem !important;
    }
-   
+
    .\2xl\:-my-5 {
       margin-top: -3rem !important;
       margin-bottom: -3rem !important;
    }
-   
+
    .\2xl\:-my-6 {
       margin-top: -4rem !important;
       margin-bottom: -4rem !important;
    }
-   
+
    .\2xl\:-my-7 {
       margin-top: -5rem !important;
       margin-bottom: -5rem !important;
    }
-   
+
    .\2xl\:-my-8 {
       margin-top: -7.5rem !important;
       margin-bottom: -7.5rem !important;
    }
-   
+
    .\2xl\:-my-9 {
       margin-top: -10rem !important;
       margin-bottom: -10rem !important;
    }
-   
+
    .\2xl\:-my-10 {
       margin-top: -12.5rem !important;
       margin-bottom: -12.5rem !important;
    }
-   
+
    .\2xl\:-my-11 {
       margin-top: -15rem !important;
       margin-bottom: -15rem !important;
    }
-   
+
    .\2xl\:-my-12 {
       margin-top: -20rem !important;
       margin-bottom: -20rem !important;
    }
-   
+
    .\2xl\:-mt-1 {
       margin-top: -0.25rem !important;
    }
-   
+
    .\2xl\:-mt-2 {
       margin-top: -0.5rem !important;
    }
-   
+
    .\2xl\:-mt-3 {
       margin-top: -1rem !important;
    }
-   
+
    .\2xl\:-mt-4 {
       margin-top: -1.5rem !important;
    }
-   
+
    .\2xl\:-mt-5 {
       margin-top: -3rem !important;
    }
-   
+
    .\2xl\:-mt-6 {
       margin-top: -4rem !important;
    }
-   
+
    .\2xl\:-mt-7 {
       margin-top: -5rem !important;
    }
-   
+
    .\2xl\:-mt-8 {
       margin-top: -7.5rem !important;
    }
-   
+
    .\2xl\:-mt-9 {
       margin-top: -10rem !important;
    }
-   
+
    .\2xl\:-mt-10 {
       margin-top: -12.5rem !important;
    }
-   
+
    .\2xl\:-mt-11 {
       margin-top: -15rem !important;
    }
-   
+
    .\2xl\:-mt-12 {
       margin-top: -20rem !important;
    }
-   
+
    .\2xl\:-mb-1 {
       margin-bottom: -0.25rem !important;
    }
-   
+
    .\2xl\:-mb-2 {
       margin-bottom: -0.5rem !important;
    }
-   
+
    .\2xl\:-mb-3 {
       margin-bottom: -1rem !important;
    }
-   
+
    .\2xl\:-mb-4 {
       margin-bottom: -1.5rem !important;
    }
-   
+
    .\2xl\:-mb-5 {
       margin-bottom: -3rem !important;
    }
-   
+
    .\2xl\:-mb-6 {
       margin-bottom: -4rem !important;
    }
-   
+
    .\2xl\:-mb-7 {
       margin-bottom: -5rem !important;
    }
-   
+
    .\2xl\:-mb-8 {
       margin-bottom: -7.5rem !important;
    }
-   
+
    .\2xl\:-mb-9 {
       margin-bottom: -10rem !important;
    }
-   
+
    .\2xl\:-mb-10 {
       margin-bottom: -12.5rem !important;
    }
-   
+
    .\2xl\:-mb-11 {
       margin-bottom: -15rem !important;
    }
-   
+
    .\2xl\:-mb-12 {
       margin-bottom: -20rem !important;
    }
-   
+
    .\2xl\:-mr-1 {
       margin-right: -0.25rem !important;
    }
-   
+
    .\2xl\:-mr-2 {
       margin-right: -0.5rem !important;
    }
-   
+
    .\2xl\:-mr-3 {
       margin-right: -1rem !important;
    }
-   
+
    .\2xl\:-mr-4 {
       margin-right: -1.5rem !important;
    }
-   
+
    .\2xl\:-mr-5 {
       margin-right: -3rem !important;
    }
-   
+
    .\2xl\:-mr-6 {
       margin-right: -4rem !important;
    }
-   
+
    .\2xl\:-mr-7 {
       margin-right: -5rem !important;
    }
-   
+
    .\2xl\:-mr-8 {
       margin-right: -7.5rem !important;
    }
-   
+
    .\2xl\:-mr-9 {
       margin-right: -10rem !important;
    }
-   
+
    .\2xl\:-mr-10 {
       margin-right: -12.5rem !important;
    }
-   
+
    .\2xl\:-mr-11 {
       margin-right: -15rem !important;
    }
-   
+
    .\2xl\:-mr-12 {
       margin-right: -20rem !important;
    }
-   
+
    .\2xl\:-ml-1 {
       margin-left: -0.25rem !important;
    }
-   
+
    .\2xl\:-ml-2 {
       margin-left: -0.5rem !important;
    }
-   
+
    .\2xl\:-ml-3 {
       margin-left: -1rem !important;
    }
-   
+
    .\2xl\:-ml-4 {
       margin-left: -1.5rem !important;
    }
-   
+
    .\2xl\:-ml-5 {
       margin-left: -3rem !important;
    }
-   
+
    .\2xl\:-ml-6 {
       margin-left: -4rem !important;
    }
-   
+
    .\2xl\:-ml-7 {
       margin-left: -5rem !important;
    }
-   
+
    .\2xl\:-ml-8 {
       margin-left: -7.5rem !important;
    }
-   
+
    .\2xl\:-ml-9 {
       margin-left: -10rem !important;
    }
-   
+
    .\2xl\:-ml-10 {
       margin-left: -12.5rem !important;
    }
-   
+
    .\2xl\:-ml-11 {
       margin-left: -15rem !important;
    }
-   
+
    .\2xl\:-ml-12 {
       margin-left: -20rem !important;
    }
