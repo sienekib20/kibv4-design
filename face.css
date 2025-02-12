@@ -294,3 +294,264 @@
    font-style: normal;
    display: swap;
 }
+
+
+@font-face {
+   font-family: 'Pacifico';
+   src: url('./face/Pacifico-Regular.ttf') format('truetype');
+   font-style: normal;
+   display: swap;
+}
+
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-Thin.ttf') format('truetype');
+   font-style: 100;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-ExtraLight.ttf') format('truetype');
+   font-style: 200;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-Light.ttf') format('truetype');
+   font-style: 300;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-Regular.ttf') format('truetype');
+   font-style: 400;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-Medium.ttf') format('truetype');
+   font-style: 500;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-SemiBold.ttf') format('truetype');
+   font-style: 600;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-Bold.ttf') format('truetype');
+   font-style: 700;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-ExtraBold.ttf') format('truetype');
+   font-style: 800;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Jost';
+   src: url('./face/Jost-Black.ttf') format('truetype');
+   font-style: 900;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-Thin.ttf') format('truetype');
+   font-style: 100;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-ExtraLight.ttf') format('truetype');
+   font-style: 200;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-Light.ttf') format('truetype');
+   font-style: 300;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-Regular.ttf') format('truetype');
+   font-style: 400;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-Medium.ttf') format('truetype');
+   font-style: 500;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-SemiBold.ttf') format('truetype');
+   font-style: 600;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-Bold.ttf') format('truetype');
+   font-style: 700;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-ExtraBold.ttf') format('truetype');
+   font-style: 800;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Inter';
+   src: url('./face/Inter_18pt-Black.ttf') format('truetype');
+   font-style: 900;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-Thin.ttf') format('truetype');
+   font-style: 100;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-ExtraLight.ttf') format('truetype');
+   font-style: 200;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-Light.ttf') format('truetype');
+   font-style: 300;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-Regular.ttf') format('truetype');
+   font-style: 400;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-Medium.ttf') format('truetype');
+   font-style: 500;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-SemiBold.ttf') format('truetype');
+   font-style: 600;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-Bold.ttf') format('truetype');
+   font-style: 700;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-ExtraBold.ttf') format('truetype');
+   font-style: 800;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto';
+   src: url('./face/Roboto-Black.ttf') format('truetype');
+   font-style: 900;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-Thin.ttf') format('truetype');
+   font-style: 100;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-ExtraLight.ttf') format('truetype');
+   font-style: 200;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-Light.ttf') format('truetype');
+   font-style: 300;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-Regular.ttf') format('truetype');
+   font-style: 400;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-Medium.ttf') format('truetype');
+   font-style: 500;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-SemiBold.ttf') format('truetype');
+   font-style: 600;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-Bold.ttf') format('truetype');
+   font-style: 700;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-ExtraBold.ttf') format('truetype');
+   font-style: 800;
+   display: swap;
+}
+
+@font-face {
+   font-family: 'Roboto Condensed';
+   src: url('./face/Roboto_Condensed-Black.ttf') format('truetype');
+   font-style: 900;
+   display: swap;
+}

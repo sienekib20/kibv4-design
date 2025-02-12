@@ -13,10 +13,35 @@
    font-weight: 200;
 }
 
+.font-pacifico {
+   font-family: 'Pacifico' !important;
+}
+
 .font-poppins {
    font-family: 'Poppins' !important;
    font-weight: 200;
 }
+
+.font-roboto {
+   font-family: 'Roboto' !important;
+   font-weight: 200;
+}
+
+.font-roboto-condensed {
+   font-family: 'Roboto Condensed' !important;
+   font-weight: 200;
+}
+
+.font-jost {
+   font-family: 'Jost' !important;
+   font-weight: 200;
+}
+
+.font-inter {
+   font-family: 'Inter' !important;
+   font-weight: 200;
+}
+
 
 .font-thin {
    font-weight: 100 !important;
@@ -74,9 +99,33 @@
       font-family: 'Nunito' !important;
       font-weight: 200;
    }
-   
+
    .sm\:font-poppins {
       font-family: 'Poppins' !important;
+      font-weight: 200;
+   }
+
+   .sm\:font-pacifico {
+      font-family: 'Pacifico' !important;
+   }
+
+   .sm\:font-roboto {
+      font-family: 'Roboto' !important;
+      font-weight: 200;
+   }
+
+   .sm\:font-roboto-condensed {
+      font-family: 'Roboto Condensed' !important;
+      font-weight: 200;
+   }
+
+   .sm\:font-jost {
+      font-family: 'Jost' !important;
+      font-weight: 200;
+   }
+
+   .sm\:font-inter {
+      font-family: 'Inter' !important;
       font-weight: 200;
    }
 
@@ -143,6 +192,30 @@
       font-weight: 200;
    }
 
+   .md\:font-pacifico {
+      font-family: 'Pacifico' !important;
+   }
+
+   .md\:font-roboto {
+      font-family: 'Roboto' !important;
+      font-weight: 200;
+   }
+
+   .md\:font-roboto-condensed {
+      font-family: 'Roboto Condensed' !important;
+      font-weight: 200;
+   }
+
+   .md\:font-jost {
+      font-family: 'Jost' !important;
+      font-weight: 200;
+   }
+
+   .md\:font-inter {
+      font-family: 'Inter' !important;
+      font-weight: 200;
+   }
+
    .md\:font-thin {
       font-weight: 100 !important;
    }
@@ -203,6 +276,30 @@
 
    .lg\:font-poppins {
       font-family: 'Poppins' !important;
+      font-weight: 200;
+   }
+
+   .lg\:font-pacifico {
+      font-family: 'Pacifico' !important;
+   }
+
+   .lg\:font-roboto {
+      font-family: 'Roboto' !important;
+      font-weight: 200;
+   }
+
+   .lg\:font-roboto-condensed {
+      font-family: 'Roboto Condensed' !important;
+      font-weight: 200;
+   }
+
+   .lg\:font-jost {
+      font-family: 'Jost' !important;
+      font-weight: 200;
+   }
+
+   .lg\:font-inter {
+      font-family: 'Inter' !important;
       font-weight: 200;
    }
 
@@ -269,6 +366,30 @@
       font-weight: 200;
    }
 
+   .xl\:font-pacifico {
+      font-family: 'Pacifico' !important;
+   }
+
+   .xl\:font-roboto {
+      font-family: 'Roboto' !important;
+      font-weight: 200;
+   }
+
+   .xl\:font-roboto-condensed {
+      font-family: 'Roboto Condensed' !important;
+      font-weight: 200;
+   }
+
+   .xl\:font-jost {
+      font-family: 'Jost' !important;
+      font-weight: 200;
+   }
+
+   .xl\:font-inter {
+      font-family: 'Inter' !important;
+      font-weight: 200;
+   }
+
    .xl\:font-thin {
       font-weight: 100 !important;
    }
@@ -329,6 +450,30 @@
 
    .\2xl\:font-poppins {
       font-family: 'Poppins' !important;
+      font-weight: 200;
+   }
+
+   .\2xl\:font-pacifico {
+      font-family: 'Pacifico' !important;
+   }
+
+   .\2xl\:font-roboto {
+      font-family: 'Roboto' !important;
+      font-weight: 200;
+   }
+
+   .\2xl\:font-roboto-condensed {
+      font-family: 'Roboto Condensed' !important;
+      font-weight: 200;
+   }
+
+   .\2xl\:font-jost {
+      font-family: 'Jost' !important;
+      font-weight: 200;
+   }
+
+   .\2xl\:font-inter {
+      font-family: 'Inter' !important;
       font-weight: 200;
    }
 
