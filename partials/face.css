@@ -1,7 +1,7 @@
 /* Onest - Definindo diferentes pesos em uma única família */
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-Thin.ttf') format('truetype');
+    src: url('./fonts/Onest-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     display: swap;
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-ExtraLight.ttf') format('truetype');
+    src: url('./fonts/Onest-ExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
     display: swap;
@@ -17,7 +17,7 @@
 
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-Light.ttf') format('truetype');
+    src: url('./fonts/Onest-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     display: swap;
@@ -25,7 +25,7 @@
 
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-Regular.ttf') format('truetype');
+    src: url('./fonts/Onest-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     display: swap;
@@ -33,7 +33,7 @@
 
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-Medium.ttf') format('truetype');
+    src: url('./fonts/Onest-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     display: swap;
@@ -41,7 +41,7 @@
 
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-SemiBold.ttf') format('truetype');
+    src: url('./fonts/Onest-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
     display: swap;
@@ -49,7 +49,7 @@
 
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-Bold.ttf') format('truetype');
+    src: url('./fonts/Onest-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
     display: swap;
@@ -57,7 +57,7 @@
 
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-ExtraBold.ttf') format('truetype');
+    src: url('./fonts/Onest-ExtraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
     display: swap;
@@ -65,7 +65,7 @@
 
 @font-face {
     font-family: 'Onest';
-    src: url('./face/Onest-Black.ttf') format('truetype');
+    src: url('./fonts/Onest-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     display: swap;
@@ -75,7 +75,7 @@
 
 @font-face {
    font-family: 'Nunito';
-/*   src: url('./face/NunitoSans_10pt-Thin.ttf') format('truetype');*/
+/*   src: url('./fonts/NunitoSans_10pt-Thin.ttf') format('truetype');*/
    font-weight: 100;
    font-style: normal;
    display: swap;
@@ -83,7 +83,7 @@
 
 @font-face {
    font-family: 'Nunito';
-   src: url('./face/NunitoSans_10pt-ExtraLight.ttf') format('truetype');
+   src: url('./fonts/NunitoSans_10pt-ExtraLight.ttf') format('truetype');
    font-weight: 200;
    font-style: normal;
    display: swap;
@@ -91,7 +91,7 @@
 
 @font-face {
    font-family: 'Nunito';
-   src: url('./face/NunitoSans_10pt-Light.ttf') format('truetype');
+   src: url('./fonts/NunitoSans_10pt-Light.ttf') format('truetype');
    font-weight: 300;
    font-style: normal;
    display: swap;
@@ -99,7 +99,7 @@
 
 @font-face {
    font-family: 'Nunito';
-   src: url('./face/NunitoSans_10pt-Regular.ttf') format('truetype');
+   src: url('./fonts/NunitoSans_10pt-Regular.ttf') format('truetype');
    font-weight: 400;
    font-style: normal;
    display: swap;
@@ -107,7 +107,7 @@
 
 @font-face {
    font-family: 'Nunito';
-   src: url('./face/NunitoSans_10pt-Medium.ttf') format('truetype');
+   src: url('./fonts/NunitoSans_10pt-Medium.ttf') format('truetype');
    font-weight: 500;
    font-style: normal;
    display: swap;
@@ -115,7 +115,7 @@
 
 @font-face {
    font-family: 'Nunito';
-   src: url('./face/NunitoSans_10pt-SemiBold.ttf') format('truetype');
+   src: url('./fonts/NunitoSans_10pt-SemiBold.ttf') format('truetype');
    font-weight: 600;
    font-style: normal;
    display: swap;
@@ -123,7 +123,7 @@
 
 @font-face {
    font-family: 'Nunito';
-   src: url('./face/NunitoSans_10pt-Bold.ttf') format('truetype');
+   src: url('./fonts/NunitoSans_10pt-Bold.ttf') format('truetype');
    font-weight: 700;
    font-style: normal;
    display: swap;
@@ -131,7 +131,7 @@
 
 @font-face {
    font-family: 'Nunito';
-   src: url('./face/NunitoSans_10pt-ExtraBold.ttf') format('truetype');
+   src: url('./fonts/NunitoSans_10pt-ExtraBold.ttf') format('truetype');
    font-weight: 800;
    font-style: normal;
    display: swap;
@@ -139,7 +139,7 @@
 
 @font-face {
    font-family: 'Nunito';
-   src: url('./face/NunitoSans_10pt-Black.ttf') format('truetype');
+   src: url('./fonts/NunitoSans_10pt-Black.ttf') format('truetype');
    font-weight: 900;
    font-style: normal;
    display: swap;
@@ -150,7 +150,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-Thin.ttf');
+   src: url('./fonts/Montserrat-Thin.ttf');
    font-weight: 100;
    font-style: normal;
    display: swap;
@@ -158,7 +158,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-ExtraLight.ttf');
+   src: url('./fonts/Montserrat-ExtraLight.ttf');
    font-weight: 200;
    font-style: normal;
    display: swap;
@@ -166,7 +166,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-Light.ttf');
+   src: url('./fonts/Montserrat-Light.ttf');
    font-weight: 300;
    font-style: normal;
    display: swap;
@@ -174,7 +174,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-Regular.ttf');
+   src: url('./fonts/Montserrat-Regular.ttf');
    font-weight: 400;
    font-style: normal;
    display: swap;
@@ -182,7 +182,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-Medium.ttf');
+   src: url('./fonts/Montserrat-Medium.ttf');
    font-weight: 500;
    font-style: normal;
    display: swap;
@@ -190,7 +190,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-SemiBold.ttf');
+   src: url('./fonts/Montserrat-SemiBold.ttf');
    font-weight: 600;
    font-style: normal;
    display: swap;
@@ -198,7 +198,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-Bold.ttf');
+   src: url('./fonts/Montserrat-Bold.ttf');
    font-weight: 700;
    font-style: normal;
    display: swap;
@@ -206,7 +206,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-ExtraBold.ttf');
+   src: url('./fonts/Montserrat-ExtraBold.ttf');
    font-weight: 800;
    font-style: normal;
    display: swap;
@@ -214,7 +214,7 @@
 
 @font-face {
    font-family: 'Montserrat';
-   src: url('./face/Montserrat-Black.ttf');
+   src: url('./fonts/Montserrat-Black.ttf');
    font-weight: 900;
    font-style: normal;
    display: swap;
@@ -223,7 +223,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-Thin.ttf');
+   src: url('./fonts/Poppins-Thin.ttf');
    font-weight: 100;
    font-style: normal;
    display: swap;
@@ -231,7 +231,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-ExtraLight.ttf');
+   src: url('./fonts/Poppins-ExtraLight.ttf');
    font-weight: 200;
    font-style: normal;
    display: swap;
@@ -240,7 +240,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-Light.ttf');
+   src: url('./fonts/Poppins-Light.ttf');
    font-weight: 300;
    font-style: normal;
    display: swap;
@@ -248,7 +248,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-Regular.ttf');
+   src: url('./fonts/Poppins-Regular.ttf');
    font-weight: 400;
    font-style: normal;
    display: swap;
@@ -256,7 +256,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-Medium.ttf');
+   src: url('./fonts/Poppins-Medium.ttf');
    font-weight: 500;
    font-style: normal;
    display: swap;
@@ -264,7 +264,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-SemiBold.ttf');
+   src: url('./fonts/Poppins-SemiBold.ttf');
    font-weight: 600;
    font-style: normal;
    display: swap;
@@ -272,7 +272,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-Bold.ttf');
+   src: url('./fonts/Poppins-Bold.ttf');
    font-weight: 700;
    font-style: normal;
    display: swap;
@@ -280,7 +280,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-ExtraBold.ttf');
+   src: url('./fonts/Poppins-ExtraBold.ttf');
    font-weight: 800;
    font-style: normal;
    display: swap;
@@ -289,7 +289,7 @@
 
 @font-face {
    font-family: 'Poppins';
-   src: url('./face/Poppins-Black.ttf');
+   src: url('./fonts/Poppins-Black.ttf');
    font-weight: 900;
    font-style: normal;
    display: swap;
@@ -298,7 +298,7 @@
 
 @font-face {
    font-family: 'Pacifico';
-   src: url('./face/Pacifico-Regular.ttf') format('truetype');
+   src: url('./fonts/Pacifico-Regular.ttf') format('truetype');
    font-style: normal;
    display: swap;
 }
@@ -306,252 +306,252 @@
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-Thin.ttf') format('truetype');
+   src: url('./fonts/Jost-Thin.ttf') format('truetype');
    font-style: 100;
    display: swap;
 }
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-ExtraLight.ttf') format('truetype');
+   src: url('./fonts/Jost-ExtraLight.ttf') format('truetype');
    font-style: 200;
    display: swap;
 }
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-Light.ttf') format('truetype');
+   src: url('./fonts/Jost-Light.ttf') format('truetype');
    font-style: 300;
    display: swap;
 }
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-Regular.ttf') format('truetype');
+   src: url('./fonts/Jost-Regular.ttf') format('truetype');
    font-style: 400;
    display: swap;
 }
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-Medium.ttf') format('truetype');
+   src: url('./fonts/Jost-Medium.ttf') format('truetype');
    font-style: 500;
    display: swap;
 }
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-SemiBold.ttf') format('truetype');
+   src: url('./fonts/Jost-SemiBold.ttf') format('truetype');
    font-style: 600;
    display: swap;
 }
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-Bold.ttf') format('truetype');
+   src: url('./fonts/Jost-Bold.ttf') format('truetype');
    font-style: 700;
    display: swap;
 }
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-ExtraBold.ttf') format('truetype');
+   src: url('./fonts/Jost-ExtraBold.ttf') format('truetype');
    font-style: 800;
    display: swap;
 }
 
 @font-face {
    font-family: 'Jost';
-   src: url('./face/Jost-Black.ttf') format('truetype');
+   src: url('./fonts/Jost-Black.ttf') format('truetype');
    font-style: 900;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-Thin.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-Thin.ttf') format('truetype');
    font-style: 100;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-ExtraLight.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-ExtraLight.ttf') format('truetype');
    font-style: 200;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-Light.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-Light.ttf') format('truetype');
    font-style: 300;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-Regular.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-Regular.ttf') format('truetype');
    font-style: 400;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-Medium.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-Medium.ttf') format('truetype');
    font-style: 500;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-SemiBold.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-SemiBold.ttf') format('truetype');
    font-style: 600;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-Bold.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-Bold.ttf') format('truetype');
    font-style: 700;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-ExtraBold.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-ExtraBold.ttf') format('truetype');
    font-style: 800;
    display: swap;
 }
 
 @font-face {
    font-family: 'Inter';
-   src: url('./face/Inter_18pt-Black.ttf') format('truetype');
+   src: url('./fonts/Inter_18pt-Black.ttf') format('truetype');
    font-style: 900;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-Thin.ttf') format('truetype');
+   src: url('./fonts/Roboto-Thin.ttf') format('truetype');
    font-style: 100;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-ExtraLight.ttf') format('truetype');
+   src: url('./fonts/Roboto-ExtraLight.ttf') format('truetype');
    font-style: 200;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-Light.ttf') format('truetype');
+   src: url('./fonts/Roboto-Light.ttf') format('truetype');
    font-style: 300;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-Regular.ttf') format('truetype');
+   src: url('./fonts/Roboto-Regular.ttf') format('truetype');
    font-style: 400;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-Medium.ttf') format('truetype');
+   src: url('./fonts/Roboto-Medium.ttf') format('truetype');
    font-style: 500;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-SemiBold.ttf') format('truetype');
+   src: url('./fonts/Roboto-SemiBold.ttf') format('truetype');
    font-style: 600;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-Bold.ttf') format('truetype');
+   src: url('./fonts/Roboto-Bold.ttf') format('truetype');
    font-style: 700;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-ExtraBold.ttf') format('truetype');
+   src: url('./fonts/Roboto-ExtraBold.ttf') format('truetype');
    font-style: 800;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto';
-   src: url('./face/Roboto-Black.ttf') format('truetype');
+   src: url('./fonts/Roboto-Black.ttf') format('truetype');
    font-style: 900;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-Thin.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-Thin.ttf') format('truetype');
    font-style: 100;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-ExtraLight.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-ExtraLight.ttf') format('truetype');
    font-style: 200;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-Light.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-Light.ttf') format('truetype');
    font-style: 300;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-Regular.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-Regular.ttf') format('truetype');
    font-style: 400;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-Medium.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-Medium.ttf') format('truetype');
    font-style: 500;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-SemiBold.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-SemiBold.ttf') format('truetype');
    font-style: 600;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-Bold.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-Bold.ttf') format('truetype');
    font-style: 700;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-ExtraBold.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-ExtraBold.ttf') format('truetype');
    font-style: 800;
    display: swap;
 }
 
 @font-face {
    font-family: 'Roboto Condensed';
-   src: url('./face/Roboto_Condensed-Black.ttf') format('truetype');
+   src: url('./fonts/Roboto_Condensed-Black.ttf') format('truetype');
    font-style: 900;
    display: swap;
 }

@@ -1,13 +1,13 @@
 @charset "UTF-8";
-@import "margin.css";
-@import "padding.css";
-@import "face.css";
-@import "font.css";
-@import "text.css";
-@import "positions.css";
-@import "insets.css";
-@import "grid.css";
-@import "gap.css";
+@import "partials/margin.css";
+@import "partials/padding.css";
+@import "partials/face.css";
+@import "partials/font.css";
+@import "partials/text.css";
+@import "partials/positions.css";
+@import "partials/insets.css";
+@import "partials/grid.css";
+@import "partials/gap.css";
 
 /* -------------------------------------------------------------------------- */
 /*                                 Theme                                      */
